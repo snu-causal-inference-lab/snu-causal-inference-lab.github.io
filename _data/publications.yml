@@ -1,0 +1,131 @@
+# --------------------------------------------------------------------------------------------
+# Submitted / in-progress
+# --------------------------------------------------------------------------------------------
+- year: 2025
+  status: submitted
+  authors: "Bong, S., and Lee, K."
+  title: "Local causal effects with continuous exposures: A matching estimator for the average derivative effect."
+  venue: "Submitted."
+  links: { arxiv: "https://arxiv.org/abs/2311.18532" }
+
+- year: 2025
+  status: submitted
+  authors: "Lee, S., and Lee, K."
+  title: "Evaluating time-specific treatment effects in matched-pairs studies."
+  venue: "Submitted."
+  links: { arxiv: "https://arxiv.org/abs/2412.09697" }
+
+- year: 2025
+  status: submitted
+  authors: "Jang, J., Kim, S., and Lee, K."
+  title: "Improving causal estimation by mixing samples to address weak overlap in observational studies."
+  venue: "Submitted."
+  links: { arxiv: "https://arxiv.org/abs/2411.10801" }
+
+- year: 2021
+  status: submitted
+  authors: "Lee, K., Bargagli-Stoffi, F. J., and Dominici, F."
+  title: "Causal rule ensemble: Interpretable inference of heterogeneous treatment effects in observational studies."
+  venue: "Submitted."
+  links: { arxiv: "https://arxiv.org/abs/2009.09036" }
+
+# --------------------------------------------------------------------------------------------
+# Published
+# --------------------------------------------------------------------------------------------
+- year: 2025
+  status: published
+  authors: "Lee, Z., and Lee, K."
+  title: "Causal interaction and effect modification: A randomization-based approach to inference."
+  venue: "Journal of the Korean Statistical Society, to appear."
+  links: { paper: "" }
+
+- year: 2024
+  status: published
+  authors: "Jung, D., Yoon, Y., and Lee, K."
+  title: "Analyzing the causal impact of streaming service usage on IPTV viewing."
+  venue: "The Korean Journal of Applied Statistics, 37(5), 675–690."
+  links: { paper: "https://koreascience.kr/article/JAKO202433861613075.page" }
+
+- year: 2024
+  status: published
+  authors: "Im, Y.*, Lee, K.*, Lee, S.*, Shin, S., Choi, Y., Lee, J., Oh, K., Kim, J., Oh, Y., Lee, H., and Park, H."
+  title: "A causal inference analysis of the radiologic progression in the chronic obstructive pulmonary disease."
+  venue: "Scientific Reports, 14(1), 17838."
+  links: { paper: "https://www.nature.com/articles/s41598-024-68560-y" }
+
+- year: 2024
+  status: published
+  authors: "Bong, S., Lee, K., and Dominici, F."
+  title: "Differential recall bias in estimating treatment effects in observational studies."
+  venue: "Biometrics, 80(2)."
+  links: { paper: "https://proceedings.mlr.press/v202/kong23d.html" }
+
+- year: 2023
+  status: published
+  authors: "Kong, I., Park, Y., Jung, J., Lee, K., and Kim, Y."
+  title: "Covariate balancing using the integral probability metric for causal inference."
+  venue: "International Conference on Machine Learning, 17430–17461."
+  links: { paper: "https://proceedings.mlr.press/v202/kong23d.html" }
+
+- year: 2023
+  status: published
+  authors: "Lee, K., Bhattacharya, B. B., Qin, J., and Small, D. S."
+  title: "A nonparametric binomial likelihood approach for causal inference in instrumental variable models."
+  venue: "Journal of the Korean Statistical Society, 52(4), 1055–1077."
+  links: { paper: "https://link.springer.com/article/10.1007/s42952-023-00233-4" }
+
+- year: 2021
+  status: published
+  authors: "Fogarty, C. B., Lee, K., Kelz, R. R., and Keele, L."
+  title: "Biased encouragements and heterogeneous effects in an instrumental variable study of emergency general surgical outcomes."
+  venue: "Journal of the American Statistical Association, 116(536), 1625–1636."
+  links: { paper: "https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1863220" }
+
+- year: 2021
+  status: published
+  authors: "Lee, K., Small, D. S., and Dominici, F."
+  title: "Discovering heterogeneous exposure effects using randomization inference in air pollution studies."
+  venue: "Journal of the American Statistical Association, 116(534), 569–580."
+  links: { arxiv: "https://arxiv.org/abs/1802.06710", paper: "https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1870476?journalCode=uasa20" }
+
+- year: 2019
+  status: published
+  authors: "Heo, S., Nori-Sarma, A., Lee, K., Benmarhnia, T., Dominici, F., and Bell, M. L."
+  title: "The use of a quasi-experimental study on the mortality effect of a heat wave warning system in South Korea."
+  venue: "International Journal of Environmental Research and Public Health, 16(12), 2245."
+  links: { paper: "https://www.mdpi.com/1660-4601/16/12/2245" }
+
+- year: 2019
+  status: published
+  authors: "Lee, K., Lorch, S. A., and Small, D. S."
+  title: "Sensitivity analyses for average treatment effects when outcome is censored by death in instrumental variable models."
+  venue: "Statistics in Medicine, 38(13), 2303–2316."
+  links: { arxiv: "https://arxiv.org/pdf/1802.06711", paper: "https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8117" }
+
+- year: 2019
+  status: published
+  authors: "Lee, K., and Small, D. S."
+  title: "Estimating the malaria attributable fever fraction accounting for fever killing parasites and measurement error."
+  venue: "Journal of the American Statistical Association, 114(525), 79–92."
+  links: { arxiv: "https://arxiv.org/abs/1605.07663", paper: "https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1469989" }
+
+- year: 2018
+  status: published
+  authors: "Billig, E. B., Lee, K., Roy, J. A., Small, D. S., Ross, M. E., Castillo-Neyra, R., and Levy, M. Z."
+  title: "Risk maps for cities: Incorporating streets into geostatistical models."
+  venue: "Spatial and Spatio-temporal Epidemiology, 27, 47–59."
+  links: { paper: "https://www.sciencedirect.com/science/article/pii/S1877584518300145" }
+
+- year: 2018
+  status: published
+  authors: "Lee, K., Small, D. S., and Rosenbaum, P. R."
+  title: "A powerful approach to the study of moderate effect modification in observational studies."
+  venue: "Biometrics, 74(4), 1161–1170."
+  links: { arxiv: "https://arxiv.org/abs/1702.00525", paper: "https://onlinelibrary.wiley.com/doi/full/10.1111/biom.12884" }
+
+- year: 2018
+  status: published
+  authors: "Lee, K., Small, D. S., Hsu, J. Y., Silber, J. H., and Rosenbaum, P. R."
+  title: "Discovering effect modification in an observational study of surgical mortality at hospitals with superior nursing."
+  venue: "Journal of the Royal Statistical Society, Series A, 181(2), 535–546."
+  links: { arxiv: "https://arxiv.org/abs/1605.03872", paper: "https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12298" }

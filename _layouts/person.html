@@ -1,0 +1,73 @@
+---
+layout: single
+classes: person-page
+---
+<header class="person-header">
+  <div class="person-header-photo">
+    <img src="{{ page.photo | relative_url }}" alt="{{ page.name }}">
+  </div>
+  <div class="person-header-text">
+    <div class="person-info">
+      <div class="person-contacts">
+
+        {% if page.office %}
+        <div class="contact-row">
+          <span class="icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M3 10.5L12 3l9 7.5"/>
+              <path d="M5 10v10h14V10"/>
+              <path d="M9 20v-6h6v6"/>
+            </svg>
+          </span>
+          <span class="text">{{ page.office }}</span>
+        </div>
+        {% endif %}
+
+        {% if page.email %}
+        <div class="contact-row">
+          <span class="icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="3" y="5" width="18" height="14" rx="2" ry="2"/>
+              <path d="M3 7l9 6 9-6"/>
+            </svg>
+          </span>
+          <span class="text">
+            <a class="email-link" href="mailto:{{ page.email }}">{{ page.email }}</a>
+          </span>
+        </div>
+        {% endif %}
+
+        {% if page.website %}
+        <div class="contact-row">
+          <span class="icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="9"/>
+              <path d="M3 12h18M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18"/>
+            </svg>
+          </span>
+          <span class="text">
+            <a class="website-link" href="{{ page.website | escape }}" target="_blank" rel="noopener">{{ page.website }}</a>
+          </span>
+        </div>
+        {% endif %}
+
+        {% if page.cv %}
+        <div class="contact-row">
+          <span class="icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+              <polyline points="14 2 14 8 20 8"/>
+            </svg>
+          </span>
+          <span class="text">
+            <a class="cv-link" href="{{ page.cv | relative_url }}" target="_blank" rel="noopener">CV (PDF)</a>
+          </span>
+        </div>
+        {% endif %}
+
+      </div>
+    </div>
+  </div>
+</header>
+
+{{ content }}

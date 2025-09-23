@@ -1,0 +1,23 @@
+---
+layout: person
+name: Juyeon Kim
+role: phd
+order: 5
+photo: /assets/images/people/juyeon-kim.jpg
+office: 25-408
+email: juyeonk@snu.ac.kr
+---
+
+## Research topic
+
+* Overlap
+
+
+
+## Education
+
+* **Ph.D. in Statistics**, Seoul National University, Sep 2024 - Present
+
+* **B.S. in Statistics, B.S. Computer Science and Engineering**, Seoul National University, Mar 2020 - Aug 2024
+
+

@@ -1,0 +1,55 @@
+.page__footer .page__footer-inner {
+  width: 100% !important;
+  max-width: $content-width !important;
+  margin: 0 auto !important;
+  padding-left: 0 !important; 
+  padding-right: 0 !important;
+}
+
+.page__footer,
+.page__footer .page__footer-inner,  /* inner wrapper (MM class) */
+.page__footer .footer__content,
+.page__footer p,
+.page__footer div {
+  text-align: left !important;
+}
+
+.page__footer {
+  padding: 0.5rem 0 !important;
+  background: #FFFFFF !important;
+  color: #808080 !important;
+}
+.page__footer .page__footer-inner {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+.page__footer p { 
+  margin: 0.2rem 0 !important;
+}
+.page__footer:before {
+  display: none !important;
+}
+
+.page__footer .page__footer-inner {
+  border-top: 1px solid #666666 !important;
+  padding-top: 1rem !important; 
+  padding-bottom: 0.5rem !important;
+}
+
+.page__footer a {
+  font-size: 0.95rem !important;
+  color: #666666 !important;       
+  text-decoration: none;
+}
+.page__footer a:hover,
+.page__footer a:focus {
+  color: #333 !important;
+  text-decoration: underline;
+}
+
+/* copyright line: even smaller */
+.page__footer .copyright {
+  font-size: 0.75rem;
+  margin: 0 !important;
+  color: #666666;
+}

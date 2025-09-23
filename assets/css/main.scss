@@ -1,0 +1,258 @@
+---
+---
+
+@import "minimal-mistakes/skins/default";
+
+$max-width:     1800px;   /* outer container */
+$content-width: 1200px;   /* readable text column */
+$right-sidebar-width: 0; 
+
+/* ------------------------------------------------------------------------------------ */
+/* typefaces */
+$serif: "Fraunces", "Libre Baskerville", "Merriweather", "Hedvig Letters Serif", Georgia, Lora, Times, serif !default;
+$serif-sub: "Libre Baskerville", "Merriweather", "Hedvig Letters Serif", Georgia, Lora, Times, serif !default;
+$sans-serif: "Work Sans", "Public Sans", "Helvetica Neue", "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI",
+   "Lucida Grande", Arial, sans-serif !default;
+$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+$sans-serif-narrow: $sans-serif !default;
+
+$global-font-family           : $sans-serif !default;
+$header-font-family           : $serif !default;
+$caption-font-family          : $sans-serif !default;
+
+/* type scale */
+$type-size-1: 2.441em !default;
+$type-size-2: 1.953em !default;
+$type-size-3: 1.563em !default;
+$type-size-4: 1.25em !default;
+$type-size-5: 1.1em !default;
+$type-size-6: 0.8em !default;
+$type-size-7: 0.8em !default;
+$type-size-8: 0.625em !default;
+
+/* headline scale */
+$h-size-1: 2em !default; // bigger h1
+$h-size-2: 1.4em !default; // bigger h2
+$h-size-3: 1.2em  !default; // bigger h3
+$h-size-4: 1.0625em !default;
+$h-size-5: 1.03125em !default;
+$h-size-6: 1em !default;
+/* ------------------------------------------------------------------------------------ */
+
+/* Load theme AFTER overriding variables */
+@import "minimal-mistakes";
+
+:root {
+  /* tweak these if your header is taller/shorter */
+  --masthead-h: 72px;
+}
+@media (min-width: 768px) { :root { --masthead-h: 80px; } }
+@media (min-width: 1100px){ :root { --masthead-h: 88px; } }
+
+.masthead {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 2000;                 /* above page content */
+  background: #fff;   
+  border-bottom: 1px solid #e6e6e6;
+}
+
+/* push content down so it doesn't hide under the fixed header */
+.initial-content {
+  padding-top: var(--masthead-h);
+}
+
+/* dropdown menu stays attached under the fixed bar */
+.greedy-nav .hidden-links {
+  top: 100%;
+}
+
+/* optional: nicer feel on iOS while scrolling */
+.masthead, .masthead * { will-change: transform; }
+
+@import "footer";
+@import "home";
+@import "news";
+@import "person";
+@import "research";
+
+
+html {
+    font-size: 12px;
+    @include breakpoint($medium) {
+      font-size: 14px;
+    }
+    @include breakpoint($large) {
+      font-size: 16px;
+    }
+    @include breakpoint($x-large) {
+      font-size: 18px;
+    }
+  }
+
+/* ------------------------------------------------------------------------------------ */
+/*                                       Overall                                        */
+/* ------------------------------------------------------------------------------------ */
+// .layout--single .sidebar,
+// .layout--single .page__sidebar,
+// .layout--single .sticky { display: none !important; }
+
+/* Page width = content width */
+.layout--single #main > .page {
+  float: none !important;
+  width: 100% !important;
+  max-width: $content-width !important;
+  margin: 0 auto !important;
+}
+
+.pagination { display: none !important; }
+
+html {
+  scroll-behavior: smooth;
+}
+
+.site-title {
+  font-family: $serif;
+  font-weight: 700;
+}
+
+.masthead,
+.greedy-nav {
+  background: transparent !important; /* let wrapper's bg show through */
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+.site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;          /* span full width */
+  z-index: 1000;        /* keep above other elements */
+  background: #fff;     /* or whatever your header background is */
+  border-bottom: 1px solid #ddd; /* optional divider line */
+}
+
+.page-content {
+  padding-top: 80px;    /* adjust this to match your header’s height */
+}
+
+/* --------------------------------- Background color --------------------------------- */
+body {
+  background-color: #FAFAFA;
+}
+
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav {
+  background-color: #FAFAFA !important;
+  box-shadow: none !important;
+}
+
+.page__footer {
+  background-color: #FAFAFA !important;
+}
+
+/* ------------------------------------ Spacing --------------------------------------- */
+.page__title {
+  margin-top: 1.5rem; 
+}
+
+.page__content {
+  margin-bottom: 0rem !important;
+}
+
+.page {
+  padding-bottom: 0 !important;
+}
+
+.page__footer {
+  margin-top: 0rem !important;
+  padding-top: 1rem; 
+}
+
+/* ------------------------------------------------------------------------------------ */
+/*                                       Pages                                          */
+/* ------------------------------------------------------------------------------------ */
+
+/* -------------------------------- Publications page --------------------------------- */
+.pub-section {
+  // border-top: 2px solid rgba(0,0,0,.2);
+  margin: 0rem 0 1.5rem;  
+  // padding-top: 1.25rem; 
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.publications-page hr {
+  border: none;              
+  border-top: 1px solid #ccc;   
+  margin-top: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+h4.pub-year {
+  font-weight: 600 !important;
+  font-family: $serif-sub !important;
+}
+
+.pub-item {
+  margin: 0.75rem 0;
+  line-height: 1.5;
+}
+
+.pub-title {
+  font-weight: 500 !important;
+}
+
+.pub-icon {
+  width: 0.9rem;
+  height: 0.9rem;
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+  margin-top: 0px !important;
+  margin-bottom: 0.15rem !important;
+  vertical-align: middle !important;
+}
+
+.pub-link:first-of-type .pub-icon {
+  margin-left: 0rem !important;
+}
+
+.pub-link {
+  display: inline-block;
+  line-height: 1;
+  vertical-align: middle !important; 
+  text-decoration: none !important;
+}
+
+.pub-icon:hover {
+  opacity: 1;
+}
+.pub-link img {
+  display: inline-block;
+}
+
+
+/* ---------------------------------- Seminar page ------------------------------------ */
+.seminar-page h2 {
+  margin-top: 4rem !important;
+  font-family: $serif-sub; 
+  font-weight: 600 !important;
+
+  border-bottom: 1.5px solid #eaeaea;
+}
+
+.seminar-page h3 {
+  font-family: $serif-sub;
+  font-size: 1.1rem;
+  font-weight: 900;
+  margin-top: 2rem;
+}
+
+.seminar-page h2:first-of-type {
+  margin-top: 2rem !important;
+}
+

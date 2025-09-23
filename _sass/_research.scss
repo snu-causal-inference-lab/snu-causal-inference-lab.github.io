@@ -1,0 +1,124 @@
+.research-page hr {
+  border: none;              
+  border-top: 1px solid #ccc;   
+  margin-top: 1.5rem;
+  margin-bottom: 3rem;     
+}
+
+/* ------------------------------------------------------------------------------------ */
+/*                                   Top navigation                                     */
+/* ------------------------------------------------------------------------------------ */
+.research-topnav {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 2rem auto 3rem;
+  flex-wrap: wrap;
+}
+
+.research-topnav a {
+  border: 1px solid #333;
+  border-radius: 20px;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.research-topnav a:hover {
+  background: #192e56;
+  color: #fff;
+}
+
+/* ------------------------------------------------------------------------------------ */
+/*                                   Section layout                                     */
+/* ------------------------------------------------------------------------------------ */
+.research-section {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 2rem;
+  margin: 0;
+  align-items: start !important; /* fix vertical misalignment */
+  scroll-margin-top: 50px;
+}
+
+.topic-title {
+  font-weight: 900;
+  color: #192e56;
+  border-bottom: none !important;
+  margin: 0;
+  padding-top: 0.3rem; /* match project title */
+}
+
+/* ------------------------------------ Projects -------------------------------------- */
+.topic-projects article {
+  margin-bottom: 2rem;
+  padding: 1.2rem 1.4rem !important;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  background-color: #f7f7f7;
+}
+
+.topic-projects h3 {
+  padding-top: 0.3rem;
+  margin: 0 0 0.3rem;
+  font-weight: 900;
+  font-size: 1.2rem;
+}
+
+.topic-projects p {
+  margin: 0 0 0.5rem;
+  line-height: 1.6;
+}
+
+.project-people {
+  font-style: italic;
+  font-weight: 400;
+  color: #666;
+  margin: 0.5rem 0 0.7rem !important; 
+  font-size: 0.9rem;
+}
+
+/* -------------------------------------- Tags ---------------------------------------- */
+.tag {
+  display: inline-block;
+  font-size: 0.85rem;
+  padding: 0.15rem 0.6rem;
+  border-radius: 12px;
+  background-color: #fafafa; 
+  border: 1px solid #e0e0e0;
+  color: #333;
+  text-decoration: none;
+  transition: background 0.2s ease;
+  box-shadow: none;
+}
+.tag:hover {
+  background-color: #fafafa;
+  box-shadow: none;
+}
+.tag:visited {
+  color: #333;
+  background-color: #fafafa;
+}
+
+.tag-label {
+  font-size: 0.85rem;
+  margin-right: 0.4rem;
+  color: #555;
+  font-style: italic;
+}
+
+/* ------------------------------------------------------------------------------------ */
+/*                                   Section layout                                     */
+/* ------------------------------------------------------------------------------------ */
+
+/* Responsive: stack on smaller screens */
+@media (max-width: 768px) {
+  .research-section {
+    grid-template-columns: 1fr;
+  }
+  .topic-title {
+    margin-bottom: 1rem;
+  }
+}
