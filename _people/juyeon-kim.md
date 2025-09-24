@@ -8,9 +8,10 @@ office: 25-408
 email: juyeonk@snu.ac.kr
 ---
 
-## Research topic
+## Research Interests
 
-* Overlap
+* Quantifying overlap
+* Matching and design
 
 
 

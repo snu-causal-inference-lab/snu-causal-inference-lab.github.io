@@ -10,7 +10,7 @@ email: zion0217@snu.ac.kr
 
 ## Research Interests
 
-Causal interactions, Mediation, Probability of Causation, Sufficient Cause model
+Causal Interactions, Mediation, Probability of Causation, Sufficient Cause Model
 
 ## Education
 
