@@ -14,11 +14,8 @@ email: juyeonk@snu.ac.kr
 * Matching and design
 
 
-
 ## Education
 
 * **Ph.D. in Statistics**, Seoul National University, Sep 2024 - Present
-
-* **B.S. in Statistics, B.S. Computer Science and Engineering**, Seoul National University, Mar 2020 - Aug 2024
-
+* **B.S. in Statistics, B.S. in Computer Science and Engineering**, Seoul National University, Mar 2020 - Aug 2024
 
