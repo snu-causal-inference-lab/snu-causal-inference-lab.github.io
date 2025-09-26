@@ -102,7 +102,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Juyeon Kim",
-        "excerpt":"Research topic      Overlap   Education           Ph.D. in Statistics, Seoul National University, Sep 2024 - Present            B.S. in Statistics, B.S. Computer Science and Engineering, Seoul National University, Mar 2020 - Aug 2024       ","categories": [],
+        "excerpt":"Research Interests      Quantifying overlap   Matching and design   Education      Ph.D. in Statistics, Seoul National University, Sep 2024 - Present   B.S. in Statistics, B.S. in Computer Science and Engineering, Seoul National University, Mar 2020 - Aug 2024   ","categories": [],
         "tags": [],
         "url": "/people/juyeon-kim/",
         "teaser": null
@@ -126,7 +126,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Zion Lee",
-        "excerpt":"Research Interests   Causal interactions, Mediation, Probability of Causation, Sufficient Cause model   Education      Ph.D. in Statistics, Integrated Master’s and Ph.D. Program, Seoul National University   B.S. in Mathematics Education (major) and Statistics (double major), Sungkyunkwan University   ","categories": [],
+        "excerpt":"Research Interests   Causal Interactions, Mediation, Probability of Causation, Sufficient Cause Model   Education      Ph.D. in Statistics, Integrated Master’s and Ph.D. Program, Seoul National University   B.S. in Mathematics Education (major) and Statistics (double major), Sungkyunkwan University   ","categories": [],
         "tags": [],
         "url": "/people/zion-lee/",
         "teaser": null

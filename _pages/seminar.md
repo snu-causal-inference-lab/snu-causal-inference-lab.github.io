@@ -50,7 +50,7 @@ classes: seminar-page
 
 ### Book review
 
-* Handbook of Matching and Weighting Adjustments for Causal Inference (José R. Zubizarreta, Elizabeth A. Stuart, Dylan S. Small, Paul R. Rosenbaum, eds., 2023) [Ch11-Ch19, Ch26]
+* Handbook of Matching and Weighting Adjustments for Causal Inference (José R. Zubizarreta, Elizabeth A. Stuart, Dylan S. Small, Paul R. Rosenbaum, 2023) [Ch11-Ch19, Ch26]
 * Causal Inference: What If (Miguel A. Hernán & James M. Robins, 2020) [Ch10-Ch23]
 
 
