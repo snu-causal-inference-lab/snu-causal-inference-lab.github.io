@@ -78,7 +78,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Our Projects by Topics",
-        "excerpt":"Matching &amp; Design Overlap &amp; Robustness Inference Complex Structures Applications Matching and Design High-Dimensional Matching with Hajeong Lee This project develops a new many-to-many matching algorithm for high-dimensional settings that does not rely on outcome information. The goal is to construct matched sets that achieve strong covariate balance even when...","categories": [],
+        "excerpt":"Matching &amp; Design Overlap &amp; Robustness Inference Complex Structures Applications Matching and Design High-Dimensional Matching with Hajoung Lee This project develops a new many-to-many matching algorithm for high-dimensional settings that does not rely on outcome information. The goal is to construct matched sets that achieve strong covariate balance even when...","categories": [],
         "tags": [],
         "url": "/research/",
         "teaser": null
