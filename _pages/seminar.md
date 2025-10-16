@@ -18,6 +18,7 @@ classes: seminar-page
 * The nudge average treatment effect (Tchetgen Tchetgen, 2024)  
 * Long story short: omitted variable bias in causal machine learning (Chernozhukov, Cinelli, and Newey, 2022)  
 * Transfer learning between U.S. presidential elections: how should we learn from a 2020 ad campaign to inform 2024 ad campaigns? (Miao et al., 2024)  
+* Causal inference on distribution functions (Lin, Kong, and Wang, 2023)
 
 ### Book review
 

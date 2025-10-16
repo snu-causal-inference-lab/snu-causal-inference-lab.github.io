@@ -54,13 +54,19 @@ var store = [{
         "teaser": null
       },{
         "title": "Penn",
+        "excerpt":"Hajoung begins Visiting Scholar appointments at the Department of Statistics and Data Science, University of Pennsylvania.  ","categories": [],
+        "tags": [],
+        "url": "/news/2025-12-20-penn/",
+        "teaser": null
+      },{
+        "title": "Penn",
         "excerpt":"Geondo, Zion, Juyeon begin Visiting Scholar appointments at the Center for Causal Inference (CCI), University of Pennsylvania.  ","categories": [],
         "tags": [],
         "url": "/news/2026-01-14-penn/",
         "teaser": null
       },{
         "title": "News",
-        "excerpt":"Upcoming Jan 2026 Geondo, Zion, Juyeon begin Visiting Scholar appointments at the Center for Causal Inference (CCI), University of Pennsylvania. 2025 Sep 🎓 Presented at Center for Causal Inference (CCI) Seminar. Sep 🎓 Promoted to Associate Professor (Department of Statistics, Seoul National University). Jul 🎓 Visiting Scholar appointment at UPenn...","categories": [],
+        "excerpt":"Upcoming Jan 2026 Geondo, Zion, Juyeon begin Visiting Scholar appointments at the Center for Causal Inference (CCI), University of Pennsylvania. Dec 2025 Hajoung begins Visiting Scholar appointments at the Department of Statistics and Data Science, University of Pennsylvania. 2025 Sep 🎓 Presented at Center for Causal Inference (CCI) Seminar. Sep...","categories": [],
         "tags": [],
         "url": "/news/",
         "teaser": null
