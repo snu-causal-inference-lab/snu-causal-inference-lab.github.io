@@ -7,7 +7,6 @@ order: 1
 photo: /assets/images/people/kwonsang-lee.jpg
 office: 25-430
 email: kwonsanglee@snu.ac.kr
-website: https://www.kwonsanglee.com/
 ---
 
 ## Academic Appointments

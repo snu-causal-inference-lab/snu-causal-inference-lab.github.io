@@ -8,8 +8,12 @@ office: 25-408
 email: p_geondo@snu.ac.kr
 ---
 
-## Research Topic
-- Overlap
+## Research Interests
+
+- Heterogeneous treatment effects
+- Optimal treatment regimes
+- Overlap quantification
+
 
 ## Education
 - **Ph.D. in Statistics**, Seoul National University, Mar 2023 - Present
