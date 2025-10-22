@@ -7,6 +7,7 @@ order: 1
 photo: /assets/images/people/kwonsang-lee.jpg
 office: 25-430
 email: kwonsanglee@snu.ac.kr
+cv: /assets/cv/kwonsang-lee-cv.pdf
 ---
 
 ## Academic Appointments
@@ -30,18 +31,23 @@ email: kwonsanglee@snu.ac.kr
 
 ## Awards and Honors
 
-* **Statistics in Epidemiology (SIE) Young Investigator Award** (2018)  
-  Awarded by the American Statistical Association’s Section on Statistics in Epidemiology for the paper “A powerful approach to the study of moderate effect modification in observational studies.”
+* **34th Outstanding Paper Award** (2024)  
+  Awarded by the Korean Federation of Science and Technology Societies for the paper "A nonparametric binomial likelihood approach for causal inference in instrumental variable models."
 
-* **Russell Ackoff Doctoral Student Fellowship Award** (2016–2017)  
+* **Outstanding Teaching Award** (2022)  
+  Awarded by College of Natural Sciences, Seoul National University for excellence in teaching.
+
+* **Statistics in Epidemiology (SIE) Young Investigator Award** (2018)    
+  Awarded by the American Statistical Association’s Section on Statistics in Epidemiology for the paper "A powerful approach to the study of moderate effect modification in observational studies."
+
+* **Russell Ackoff Doctoral Student Fellowship Award** (2016–2017)   
   Awarded by the Wharton Risk Management and Decision Processes Center, University of Pennsylvania, for pursuing research in decision making under risk and uncertainty.
 
-* **GAPSA Research Travel Grant Award** (2015)  
-  Awarded by the Graduate and Professional Student Assembly (GAPSA), University of Pennsylvania.
-
-* **Departmental Good Teaching Award** (2014)  
-  Awarded by the Department of Mathematics, University of Pennsylvania, for excellence in teaching.
-
-* **Benjamin Franklin Fellowship** (2012–2017)  
+* **Benjamin Franklin Fellowship** (2012–2017)    
   Awarded by the School of Arts and Sciences, University of Pennsylvania.
 
+* **GAPSA Research Travel Grant Award** (Summer 2015)  
+  Awarded by the Graduate and Professional Student Assembly (GAPSA), University of Pennsylvania.
+
+* **Department Good Teaching Award** (Spring 2024)  
+  Awarded by Department of Mathematics, University of Pennsylvania for excellence in teaching.

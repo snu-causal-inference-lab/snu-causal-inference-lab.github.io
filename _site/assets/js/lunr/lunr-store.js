@@ -96,7 +96,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Geondo Park",
-        "excerpt":"Research Topic     Overlap   Education     Ph.D. in Statistics, Seoul National University, Mar 2023 - Present   B.S. in Statistics, Seoul National University, Mar 2017 - Aug 2023  ","categories": [],
+        "excerpt":"Research Interests      Heterogeneous treatment effects   Optimal treatment regimes   Overlap quantification   Education     Ph.D. in Statistics, Seoul National University, Mar 2023 - Present   B.S. in Statistics, Seoul National University, Mar 2017 - Aug 2023  ","categories": [],
         "tags": [],
         "url": "/people/geondo-park/",
         "teaser": null
