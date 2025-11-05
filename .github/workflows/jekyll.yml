@@ -21,13 +21,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0     # last-modified-at 플러그인에 필수
+          fetch-depth: 0 
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
-          bundler-cache: true   # 다시 켜기 (캐시로 빌드 빨라짐)
+          bundler-cache: true 
+          cache-version: 1  
 
       - name: Setup Pages
         id: pages
