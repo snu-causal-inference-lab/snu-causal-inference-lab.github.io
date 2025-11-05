@@ -21,14 +21,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 
+          fetch-depth: 0        
 
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@v1   
         with:
           ruby-version: '3.1'
-          bundler-cache: true 
-          cache-version: 1  
+          bundler-cache: false   
+          
+      - name: Print Bundler env
+        run: bundle env
+
+      - name: Install gems
+        run: bundle install --jobs 4 --retry 3
 
       - name: Setup Pages
         id: pages
@@ -54,6 +59,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
 
 
 # # This workflow uses actions that are not certified by GitHub.
