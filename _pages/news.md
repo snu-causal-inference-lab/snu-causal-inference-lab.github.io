@@ -1,7 +1,7 @@
 ---
 title: News
 layout: single
-classes: news-page
+classes: "news-page show-updated"
 author_profile: false
 ---
 

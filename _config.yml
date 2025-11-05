@@ -35,13 +35,14 @@ plugins:
   - jekyll-include-cache
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-last-modified-at
 
 markdown: kramdown
 
 defaults:
   - scope:
-      path: ""     # whole site
-      type: pages  # your collection name
+      path: "" 
+      type: pages 
     values:
       author_profile: false
       sidebar: null

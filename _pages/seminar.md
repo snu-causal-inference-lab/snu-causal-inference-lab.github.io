@@ -1,7 +1,7 @@
 ---
 title: Seminar
 layout: single
-classes: seminar-page
+classes: "seminar-page show-updated"
 ---
 
 

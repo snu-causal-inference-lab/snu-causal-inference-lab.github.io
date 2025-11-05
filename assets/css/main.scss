@@ -111,6 +111,11 @@ html {
 
 .pagination { display: none !important; }
 
+/* 기본은 숨김 */
+.page__meta { display: none; }
+/* 이 클래스를 가진 페이지만 보이기 */
+.show-updated .page__meta { display: block; }
+
 html {
   scroll-behavior: smooth;
 }
