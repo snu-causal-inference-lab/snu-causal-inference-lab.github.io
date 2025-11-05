@@ -2,7 +2,6 @@
 title: News
 layout: single
 classes: "news-page show-updated"
-author_profile: false
 ---
 
 {% assign news_items = site.news | sort: 'date' | reverse %}
