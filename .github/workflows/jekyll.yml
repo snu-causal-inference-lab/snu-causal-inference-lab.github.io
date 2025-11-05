@@ -40,38 +40,19 @@ jobs:
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
         with:
           ruby-version: '3.1' # Not needed with a .ruby-version file
-          bundler-cache: false # runs 'bundle install' and caches installed gems automatically
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
-      - name: Print Bundler env
-        run: bundle env
-
-      - name: Install gems (verbose)
-        run: bundle install --jobs 4 --retry 3 --verbose
-
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-
-      - name: Build with Jekyll (trace+verbose)
-        run: bundle exec jekyll build --trace --verbose --baseurl "${{ steps.pages.outputs.base_path }}"
+      - name: Build with Jekyll
+        # Outputs to the './_site' directory by default
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-
       - name: Upload artifact
+        # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-      # - name: Setup Pages
-      #   id: pages
-      #   uses: actions/configure-pages@v5
-      # - name: Build with Jekyll
-      #   # Outputs to the './_site' directory by default
-      #   run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-      #   env:
-      #     JEKYLL_ENV: production
-      # - name: Upload artifact
-      #   # Automatically uploads an artifact from the './_site' directory by default
-      #   uses: actions/upload-pages-artifact@v3
 
   # Deployment job
   deploy:
