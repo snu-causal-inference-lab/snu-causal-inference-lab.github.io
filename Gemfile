@@ -2,7 +2,6 @@ source "https://rubygems.org"
 
 gem "github-pages", "~> 232", group: :jekyll_plugins
 
-# Jekyll 플러그인
 group :jekyll_plugins do
   # github-pages가 jekyll-feed를 포함하므로 굳이 버전 고정하지 말기
   gem "jekyll-feed" 
