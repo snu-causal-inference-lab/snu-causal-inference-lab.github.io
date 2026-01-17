@@ -19,6 +19,7 @@ classes: "seminar-page show-updated"
 * Long story short: omitted variable bias in causal machine learning (Chernozhukov, Cinelli, and Newey, 2022)  
 * Transfer learning between U.S. presidential elections: how should we learn from a 2020 ad campaign to inform 2024 ad campaigns? (Miao et al., 2024)  
 * Causal inference on distribution functions (Lin, Kong, and Wang, 2023)
+* Multiple randomization designs: Estimation and inference with interference (Masoero et al., 2025)
 
 ### Book review
 
