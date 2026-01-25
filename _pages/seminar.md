@@ -4,6 +4,11 @@ layout: single
 classes: "seminar-page show-updated"
 ---
 
+## 2026 Lab Seminar
+
+### Paper reviews
+
+* Multiple randomization designs: Estimation and inference with interference (Masoero et al., 2025)
 
 
 ## 2025 Lab Seminar
@@ -19,11 +24,13 @@ classes: "seminar-page show-updated"
 * Long story short: omitted variable bias in causal machine learning (Chernozhukov, Cinelli, and Newey, 2022)  
 * Transfer learning between U.S. presidential elections: how should we learn from a 2020 ad campaign to inform 2024 ad campaigns? (Miao et al., 2024)  
 * Causal inference on distribution functions (Lin, Kong, and Wang, 2023)
-* Multiple randomization designs: Estimation and inference with interference (Masoero et al., 2025)
+* Game-theoretic statistics and safe anytime-valid inference (Ramdas et al., 2023)
+
 
 ### Book review
 
 * High-dimensional Statistics: A Non-Asymptotic Viewpoint (Martin J. Wainwright, 2019)
+* Hypothesis testing with e-values (Ramdas and Wang, 2025)
 
 
 
@@ -52,8 +59,8 @@ classes: "seminar-page show-updated"
 
 ### Book review
 
-* Handbook of Matching and Weighting Adjustments for Causal Inference (José R. Zubizarreta, Elizabeth A. Stuart, Dylan S. Small, Paul R. Rosenbaum, 2023) [Ch11-Ch19, Ch26]
-* Causal Inference: What If (Miguel A. Hernán & James M. Robins, 2020) [Ch10-Ch23]
+* Handbook of Matching and Weighting Adjustments for Causal Inference (José R. Zubizarreta, Elizabeth A. Stuart, Dylan S. Small, Paul R. Rosenbaum, 2023)
+* Causal Inference: What If (Miguel A. Hernán & James M. Robins, 2020)
 
 
 
