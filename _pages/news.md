@@ -41,3 +41,4 @@ classes: "news-page show-updated"
     </li>
   {% endfor %}
 </ul>
+
