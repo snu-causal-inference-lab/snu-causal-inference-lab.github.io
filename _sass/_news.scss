@@ -37,8 +37,14 @@
   font-weight: 600 !important;
 }
 
-.news-entry .news-strong { font-weight: 700 !important; }
-.news-entry .news-medium { font-weight: 600 !important; }
+.news-entry .news-strong { font-weight: 600 !important; }
+.news-entry .news-medium {
+  font-weight: 500 !important;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+}
+
 
 
 .prof-icon {
