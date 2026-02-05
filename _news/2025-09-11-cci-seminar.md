@@ -4,4 +4,4 @@ short_date: true
 professor: true
 ---
 
-Presented at Center for Causal Inference (CCI) Seminar.
+<span class="news-prof">Kwonsang</span> presented at the Center for Causal Inference (CCI) Seminar.

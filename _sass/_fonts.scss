@@ -75,6 +75,13 @@
 }
 @font-face {
   font-family: 'Work Sans';
+  src: url('/assets/fonts/work-sans-v24-latin/work-sans-v24-latin-600.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Work Sans';
   src: url('/assets/fonts/work-sans-v24-latin/work-sans-v24-latin-700.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
