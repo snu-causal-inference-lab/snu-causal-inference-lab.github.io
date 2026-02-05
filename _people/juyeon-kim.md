@@ -10,7 +10,7 @@ email: juyeonk@snu.ac.kr
 
 ## Research Interests
 
-* Quantifying overlap
+* Quantifying overlap in causal inference
 * Matching and design
 
 
@@ -18,4 +18,12 @@ email: juyeonk@snu.ac.kr
 
 * **Ph.D. in Statistics**, Seoul National University, Sep 2024 - Present
 * **B.S. in Statistics, B.S. in Computer Science and Engineering**, Seoul National University, Mar 2020 - Aug 2024
+
+
+## Teaching Assistant
+
+* Research Method and Statistics (M2480.002400), Spring 2025.
+* Statistical Computing and Lab (326.212), Fall 2024.
+
+
 
