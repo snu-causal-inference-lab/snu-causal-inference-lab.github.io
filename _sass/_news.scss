@@ -34,8 +34,12 @@
 }
 
 .news-list strong {
-  font-weight: 400 !important;
+  font-weight: 600 !important;
 }
+
+.news-entry .news-strong { font-weight: 600 !important; }
+.news-entry .news-medium { font-weight: 500 !important; }
+
 
 .prof-icon {
   margin-right: 0.4rem;
