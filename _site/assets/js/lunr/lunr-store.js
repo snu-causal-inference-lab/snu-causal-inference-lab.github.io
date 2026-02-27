@@ -71,8 +71,14 @@ var store = [{
         "url": "/news/2026-01-29-cci-seminar/",
         "teaser": null
       },{
+        "title": "Eurocim",
+        "excerpt":"Suehyun will give an oral presentation on her paper A design-based matching framework for staggered adoption with time-varying confounding, at EuroCIM 2026 in Oxford.  ","categories": [],
+        "tags": [],
+        "url": "/news/2026-04-15-eurocim/",
+        "teaser": null
+      },{
         "title": "News",
-        "excerpt":"2026 Jan 29 Geondo presented at the Spring 2026 seminar of the Center for Causal Inference (CCI) at the University of Pennsylvania, on joint work with Juyeon, Quantifying Practical Overlap in Causal Inference via Integrated KL Projections. Jan 14 Geondo, Zion, and Juyeon are Visiting Scholars at the Department of...","categories": [],
+        "excerpt":"Upcoming Apr Suehyun will give an oral presentation on her paper A design-based matching framework for staggered adoption with time-varying confounding, at EuroCIM 2026 in Oxford. 2026 Jan 29 Geondo presented at the Spring 2026 seminar of the Center for Causal Inference (CCI) at the University of Pennsylvania, on joint...","categories": [],
         "tags": [],
         "url": "/news/",
         "teaser": null
