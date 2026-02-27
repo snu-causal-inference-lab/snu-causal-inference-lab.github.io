@@ -1,6 +1,6 @@
 var store = [{
         "title": "Symposium",
-        "excerpt":"Our lab hosted the 2024 Causal Inference Symposium in Gonjiam, Korea.   ","categories": [],
+        "excerpt":"Our group hosted the 2024 Causal Inference Symposium in Gwangju, South Korea.   ","categories": [],
         "tags": [],
         "url": "/news/2024-08-27-symposium/",
         "teaser": null
@@ -30,43 +30,49 @@ var store = [{
         "teaser": null
       },{
         "title": "Symposium",
-        "excerpt":"2025 Causal Inference Symposium held at COEX convention center, Seoul, Korea.   ","categories": [],
+        "excerpt":"The 2025 Causal Inference Symposium was held at COEX convention center, Seoul, Korea. Geondo and Zion gave talks on Quantifying Overlap in Causal Inference: A Framework for Early-Stage Assessment and Causal Interaction and Effect Modification: A Randomization-Based Approach to Inference, respectively.   ","categories": [],
         "tags": [],
         "url": "/news/2025-06-30-symposium/",
         "teaser": null
       },{
         "title": "Penn",
-        "excerpt":"Visiting Scholar appointment at UPenn Stats &amp; DS.   ","categories": [],
+        "excerpt":"Kwonsang is on a Visiting Scholar appointment at UPenn Statistics &amp; Data Science.   ","categories": [],
         "tags": [],
         "url": "/news/2025-07-16-penn/",
         "teaser": null
       },{
         "title": "Associate Professor",
-        "excerpt":"Promoted to Associate Professor (Department of Statistics, Seoul National University).  ","categories": [],
+        "excerpt":"Kwonsang has been promoted to Associate Professor (Department of Statistics, Seoul National University).  ","categories": [],
         "tags": [],
         "url": "/news/2025-09-01-associate-professor/",
         "teaser": null
       },{
         "title": "Cci Seminar",
-        "excerpt":"Presented at Center for Causal Inference (CCI) Seminar.  ","categories": [],
+        "excerpt":"Kwonsang presented at the Center for Causal Inference (CCI) Seminar.  ","categories": [],
         "tags": [],
         "url": "/news/2025-09-11-cci-seminar/",
         "teaser": null
       },{
         "title": "Penn",
-        "excerpt":"Hajoung begins Visiting Scholar appointments at the Department of Statistics and Data Science, University of Pennsylvania.  ","categories": [],
+        "excerpt":"Hajoung has begun her Visiting Scholar appointment at the Department of Statistics and Data Science, University of Pennsylvania.  ","categories": [],
         "tags": [],
         "url": "/news/2025-12-20-penn/",
         "teaser": null
       },{
         "title": "Penn",
-        "excerpt":"Geondo, Zion, Juyeon begin Visiting Scholar appointments at the Center for Causal Inference (CCI), University of Pennsylvania.  ","categories": [],
+        "excerpt":"Geondo, Zion, and Juyeon are Visiting Scholars at the Department of Statistics and Data Science, University of Pennsylvania.  ","categories": [],
         "tags": [],
         "url": "/news/2026-01-14-penn/",
         "teaser": null
       },{
+        "title": "Cci Seminar",
+        "excerpt":"Geondo presented at the Spring 2026 seminar of the Center for Causal Inference (CCI) at the University of Pennsylvania, on joint work with Juyeon, Quantifying Practical Overlap in Causal Inference via Integrated KL Projections.  ","categories": [],
+        "tags": [],
+        "url": "/news/2026-01-29-cci-seminar/",
+        "teaser": null
+      },{
         "title": "News",
-        "excerpt":"Upcoming Jan 2026 Geondo, Zion, Juyeon begin Visiting Scholar appointments at the Center for Causal Inference (CCI), University of Pennsylvania. Dec 2025 Hajoung begins Visiting Scholar appointments at the Department of Statistics and Data Science, University of Pennsylvania. 2025 Sep 🎓 Presented at Center for Causal Inference (CCI) Seminar. Sep...","categories": [],
+        "excerpt":"2026 Jan 29 Geondo presented at the Spring 2026 seminar of the Center for Causal Inference (CCI) at the University of Pennsylvania, on joint work with Juyeon, Quantifying Practical Overlap in Causal Inference via Integrated KL Projections. Jan 14 Geondo, Zion, and Juyeon are Visiting Scholars at the Department of...","categories": [],
         "tags": [],
         "url": "/news/",
         "teaser": null
@@ -90,13 +96,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Seminar",
-        "excerpt":"2025 Lab Seminar Paper reviews Causal fairness analysis (Plečko and Bareinboim, 2024) [Ch1-Ch5] Covariate-adaptive randomization inference in matched designs (Pimentel and Huang, 2024) Sensitivity analysis for attributable effects in Case2 studies (Kan et al., 2024) Conformal inference of counterfactuals and individual treatment effects (Lei, Robins, and Wasserman, 2021) Testing generalizability...","categories": [],
+        "excerpt":"2026 Lab Seminar Paper reviews Multiple randomization designs: Estimation and inference with interference (Masoero et al., 2025) 2025 Lab Seminar Paper reviews Causal fairness analysis (Plečko and Bareinboim, 2024) [Ch1-Ch5] Covariate-adaptive randomization inference in matched designs (Pimentel and Huang, 2024) Sensitivity analysis for attributable effects in Case2 studies (Kan et...","categories": [],
         "tags": [],
         "url": "/seminar/",
         "teaser": null
       },{
         "title": "Geondo Park",
-        "excerpt":"Research Interests      Heterogeneous treatment effects   Optimal treatment regimes   Overlap quantification   Education     Ph.D. in Statistics, Seoul National University, Mar 2023 - Present   B.S. in Statistics, Seoul National University, Mar 2017 - Aug 2023  ","categories": [],
+        "excerpt":"Research Interests Heterogeneous treatment effects Optimal treatment regimes Overlap quantification Education Ph.D. in Statistics, Seoul National University, Mar 2023 - Present B.S. in Statistics, Seoul National University, Mar 2017 - Aug 2023 Teaching Assistant Mathematical Statistics 2 (326.312), Fall 2025 Causal Inference (M1399.001200), Spring 2025 Seminar in Statistics (Uncertainty Quantification...","categories": [],
         "tags": [],
         "url": "/people/geondo-park/",
         "teaser": null
@@ -108,7 +114,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Juyeon Kim",
-        "excerpt":"Research Interests      Quantifying overlap   Matching and design   Education      Ph.D. in Statistics, Seoul National University, Sep 2024 - Present   B.S. in Statistics, B.S. in Computer Science and Engineering, Seoul National University, Mar 2020 - Aug 2024   ","categories": [],
+        "excerpt":"Research Interests Quantifying overlap in causal inference Matching and design Education Ph.D. in Statistics, Seoul National University, Sep 2024 - Present B.S. in Statistics, B.S. in Computer Science and Engineering, Seoul National University, Mar 2020 - Aug 2024 Teaching Assistant Research Method and Statistics (M2480.002400), Spring 2025. Statistical Computing and...","categories": [],
         "tags": [],
         "url": "/people/juyeon-kim/",
         "teaser": null

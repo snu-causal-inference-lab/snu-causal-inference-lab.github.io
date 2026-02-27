@@ -23,15 +23,14 @@ repository: snu-causal-inference-lab/snu-causal-inference-lab.github.io
 
 logo: "/assets/images/snu-logo.png"
 
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: default
+# minimal_mistakes_skin: default
+theme: minimal-mistakes-jekyll
 fontawesome: true
 
 sass:
   sourcemap: never
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-feed
   - jekyll-paginate
