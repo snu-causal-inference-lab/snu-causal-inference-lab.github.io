@@ -71,6 +71,11 @@ atom_feed:
 footer_scripts:
   - /assets/js/custom.js
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-8RWBQYFQ13"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
