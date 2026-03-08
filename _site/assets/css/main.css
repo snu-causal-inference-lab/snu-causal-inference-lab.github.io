@@ -1446,7 +1446,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 
 .topic-card:visited { color: #333; }
 
-.topic-card:hover { transform: translateY(-3px); box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); }
+.topic-card:hover { transform: translateY(-3px); box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); text-decoration: none !important; }
 
 .topic-card .icon i { font-size: 2rem; margin-bottom: 1rem; color: #2f6f88; }
 

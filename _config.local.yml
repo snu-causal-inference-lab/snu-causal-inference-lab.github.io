@@ -27,6 +27,8 @@ logo: "/assets/images/snu-logo.png"
 theme: minimal-mistakes-jekyll
 fontawesome: true
 
+future: true
+
 sass:
   sourcemap: never
 

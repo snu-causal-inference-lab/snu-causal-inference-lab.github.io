@@ -72,13 +72,19 @@ var store = [{
         "teaser": null
       },{
         "title": "Eurocim",
-        "excerpt":"Suehyun will give an oral presentation on her paper A design-based matching framework for staggered adoption with time-varying confounding, at EuroCIM 2026 in Oxford.  ","categories": [],
+        "excerpt":"Suehyun will give an oral presentation on her paper A design-based matching framework for staggered adoption with time-varying confounding at EuroCIM 2026 in Oxford, UK.  ","categories": [],
         "tags": [],
         "url": "/news/2026-04-15-eurocim/",
         "teaser": null
       },{
+        "title": "Acic",
+        "excerpt":"Zion will give a talk on her recent work Design-Based Inference for Attribution to Causal Interaction at ACIC 2026, held in Salt Lake City, Utah.   ","categories": [],
+        "tags": [],
+        "url": "/news/2026-05-12-acic/",
+        "teaser": null
+      },{
         "title": "News",
-        "excerpt":"Upcoming Apr Suehyun will give an oral presentation on her paper A design-based matching framework for staggered adoption with time-varying confounding, at EuroCIM 2026 in Oxford. 2026 Jan 29 Geondo presented at the Spring 2026 seminar of the Center for Causal Inference (CCI) at the University of Pennsylvania, on joint...","categories": [],
+        "excerpt":"Upcoming May Zion will give a talk on her recent work Design-Based Inference for Attribution to Causal Interaction at ACIC 2026, held in Salt Lake City, Utah. Apr Suehyun will give an oral presentation on her paper A design-based matching framework for staggered adoption with time-varying confounding at EuroCIM 2026...","categories": [],
         "tags": [],
         "url": "/news/",
         "teaser": null

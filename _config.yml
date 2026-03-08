@@ -27,6 +27,8 @@ remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
 fontawesome: true
 
+future: true
+
 sass:
   sourcemap: never
 
