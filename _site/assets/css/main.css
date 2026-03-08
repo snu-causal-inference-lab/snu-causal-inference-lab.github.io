@@ -1569,6 +1569,10 @@ a.home-news-more:hover { color: #333 !important; }
 
 .cv-link:hover { color: #333; text-decoration: underline; /* optional */ }
 
+.person-link, .person-link:visited { color: #666; text-decoration: underline; text-underline-offset: 3px; }
+
+.person-link:hover { color: #333; text-decoration: underline; text-underline-offset: 3px; }
+
 /* ------------------------------------------------------------------------------------ */
 /*                                       Alumni                                         */
 /* ------------------------------------------------------------------------------------ */

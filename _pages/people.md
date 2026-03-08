@@ -37,7 +37,7 @@ layout: single
       <li>Junho Jang, Master's (2025). Economist, the Bank of Korea.</li>
       <li>Jaehyuk Jang, Master's (2025). Ph.D. student, Rutgers University (since 2025).</li>
       <li>Sangjin Lee, Master's (2025). Ph.D. student, Ghent University (since 2025).</li>
-      <li>Suhwan Bong, Master's (2024). Ph.D. student, Harvard University (since 2024).</li>
+      <li><a href="https://suhwanbong121.github.io" class="person-link">Suhwan Bong</a>, Master's (2024). Ph.D. student, Harvard University (since 2024).</li>
     </ul>
   </div>
 </div>
