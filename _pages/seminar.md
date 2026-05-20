@@ -34,7 +34,7 @@ classes: "seminar-page show-updated"
 * Long story short: omitted variable bias in causal machine learning (Victor Chernozhukov et al., 2021)  
 * Transfer learning between U.S. presidential elections: how should we learn from a 2020 ad campaign to inform 2024 ad campaigns? (Xinran Miao, Jiwei Zhao & Hyunseung Kang, 2024)  
 * Causal inference on distribution functions (Zhenhua Lin, Dehan Kong & Linbo Wang, 2023)
-* Game-theoretic statistics & safe anytime-valid inference (Aaditya Ramdas et al., 2023)
+* Game-theoretic statistics and safe anytime-valid inference (Aaditya Ramdas et al., 2023)
 
 
 ### Book review
@@ -64,12 +64,12 @@ classes: "seminar-page show-updated"
 * Finding influential subjects in a network using a causal framework (Youjin Lee et al., 2023)  
 * Neural score matching for high-dimensional causal inference (Oscar Clivio et al., 2022)  
 * Mendelian randomization
-* Influence function & efficiency theory
+* Influence function and efficiency theory
 
 
 ### Book review
 
-* Handbook of Matching & Weighting Adjustments for Causal Inference (José Zubizarreta, Elizabeth Stuart, Dylan Small, Paul Rosenbaum, 2023)
+* Handbook of Matching and Weighting Adjustments for Causal Inference (José Zubizarreta, Elizabeth Stuart, Dylan Small, Paul Rosenbaum, 2023)
 * Causal Inference: What If (Miguel Hernán & James Robins, 2020)
 
 
