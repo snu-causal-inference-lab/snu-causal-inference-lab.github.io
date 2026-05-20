@@ -72,19 +72,19 @@ var store = [{
         "teaser": null
       },{
         "title": "Eurocim",
-        "excerpt":"Suehyun will give an oral presentation on her paper A design-based matching framework for staggered adoption with time-varying confounding at EuroCIM 2026 in Oxford, UK.  ","categories": [],
+        "excerpt":"Suehyun gave an oral presentation on her paper A design-based matching framework for staggered adoption with time-varying confounding at EuroCIM 2026 in Oxford, UK.  ","categories": [],
         "tags": [],
         "url": "/news/2026-04-15-eurocim/",
         "teaser": null
       },{
         "title": "Acic",
-        "excerpt":"Zion will give a talk on her recent work Design-Based Inference for Attribution to Causal Interaction at ACIC 2026, held in Salt Lake City, Utah.   ","categories": [],
+        "excerpt":"Zion gave a talk on her recent work Design-Based Inference for Attribution to Causal Interaction at ACIC 2026, held in Salt Lake City, Utah.   ","categories": [],
         "tags": [],
         "url": "/news/2026-05-12-acic/",
         "teaser": null
       },{
         "title": "News",
-        "excerpt":"Upcoming May Zion will give a talk on her recent work Design-Based Inference for Attribution to Causal Interaction at ACIC 2026, held in Salt Lake City, Utah. Apr Suehyun will give an oral presentation on her paper A design-based matching framework for staggered adoption with time-varying confounding at EuroCIM 2026...","categories": [],
+        "excerpt":"2026 May 13 Zion gave a talk on her recent work Design-Based Inference for Attribution to Causal Interaction at ACIC 2026, held in Salt Lake City, Utah. Apr 15 Suehyun gave an oral presentation on her paper A design-based matching framework for staggered adoption with time-varying confounding at EuroCIM 2026...","categories": [],
         "tags": [],
         "url": "/news/",
         "teaser": null
@@ -108,7 +108,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Seminar",
-        "excerpt":"2026 Lab Seminar Paper reviews Multiple randomization designs: Estimation and inference with interference (Masoero et al., 2025) 2025 Lab Seminar Paper reviews Causal fairness analysis (Plečko and Bareinboim, 2024) [Ch1-Ch5] Covariate-adaptive randomization inference in matched designs (Pimentel and Huang, 2024) Sensitivity analysis for attributable effects in Case2 studies (Kan et...","categories": [],
+        "excerpt":"2026 Lab Seminar Paper reviews Multiple randomization designs: Estimation and inference with interference (Masoero et al., 2025) A nonparametric framework for treatment effect modifier discovery in high dimensions (Boileau et al., 2025) Alleviating the quantum Big-M problem (Alessandroni et al., 2025) Balancing weights for causal inference in observational factorial studies...","categories": [],
         "tags": [],
         "url": "/seminar/",
         "teaser": null

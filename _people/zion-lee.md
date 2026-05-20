@@ -4,7 +4,6 @@ name: Zion Lee
 role: phd               # pi | phd | ms
 order: 4
 photo: /assets/images/people/zion-lee.jpg
-office: 25-312
 email: zion0217@snu.ac.kr
 ---
 

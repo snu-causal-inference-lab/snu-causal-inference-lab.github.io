@@ -4,7 +4,6 @@ name: Juyeon Kim
 role: phd
 order: 5
 photo: /assets/images/people/juyeon-kim.jpg
-office: 25-408
 email: juyeonk@snu.ac.kr
 ---
 
