@@ -108,7 +108,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Seminar",
-        "excerpt":"2026 Lab Seminar Paper reviews Multiple randomization designs: Estimation and inference with interference (Masoero et al., 2025) A nonparametric framework for treatment effect modifier discovery in high dimensions (Boileau et al., 2025) Alleviating the quantum Big-M problem (Alessandroni et al., 2025) Balancing weights for causal inference in observational factorial studies...","categories": [],
+        "excerpt":"2026 Lab Seminar Paper reviews Multiple randomization designs: Estimation and inference with interference (Lorenzo Masoero et al., 2026) A nonparametric framework for treatment effect modifier discovery in high dimensions (Philippe Boileau et al., 2025) Alleviating the quantum Big-M problem (Edoardo Alessandroni et al., 2025) Balancing weights for causal inference in...","categories": [],
         "tags": [],
         "url": "/seminar/",
         "teaser": null
