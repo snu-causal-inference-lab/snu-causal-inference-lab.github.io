@@ -1,4 +1,5 @@
 ---
+title: "Kwonsang Lee"
 layout: person
 name: Kwonsang Lee
 role: pi

@@ -1,4 +1,5 @@
 ---
+title: "Hajoung Lee"
 layout: person
 name: Hajoung Lee
 role: postdoc

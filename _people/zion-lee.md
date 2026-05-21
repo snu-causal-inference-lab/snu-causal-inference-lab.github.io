@@ -1,4 +1,6 @@
 ---
+title: "Zion Lee"
+excerpt: "PhD student in statistics at Seoul National University"
 layout: person
 name: Zion Lee
 role: phd               # pi | phd | ms

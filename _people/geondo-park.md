@@ -1,4 +1,6 @@
 ---
+title: "Geondo Park"
+excerpt: "PhD student in statistics at Seoul National University"
 layout: person
 name: Geondo Park
 role: phd               # pi | phd | ms

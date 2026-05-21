@@ -1,6 +1,6 @@
 ---
 title: "Juyeon Kim"
-excerpt: "PhD student in Statistics at Seoul National University"
+excerpt: "PhD student in statistics at Seoul National University"
 layout: person
 name: Juyeon Kim
 role: phd
