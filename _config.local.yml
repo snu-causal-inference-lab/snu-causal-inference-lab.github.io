@@ -37,6 +37,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-last-modified-at
+  - jekyll-sitemap
 
 markdown: kramdown
 
