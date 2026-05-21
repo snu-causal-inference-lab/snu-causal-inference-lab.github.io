@@ -1528,7 +1528,7 @@ a.home-news-more:hover { color: #333 !important; }
 .person-page .page__meta, .person-page .comment__date { display: none !important; }
 
 /* -------------------------------------- Text ---------------------------------------- */
-.person-page strong { font-weight: 500 !important; }
+.person-page strong { font-weight: 600 !important; }
 
 .person-page h2 { border-bottom: none !important; margin-top: 2rem !important; margin-bottom: 0 !important; }
 
