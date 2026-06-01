@@ -18,6 +18,7 @@ classes: "seminar-page show-updated"
 * Quantifying distributional model risk via optimal transport (Jose Blanchet & Karthyek Murthy, 2019)
 * Stochastic gradient methods for distributionally robust optimization with f-divergences (Hongseok Namkoong & John Duchi, 2016)
 * Augmented minimax linear estimation (David Hirshberg & Stefan Wager, 2021)
+* Generalized optimal matching methods for causal inference (Nathan Kallus, 2020)
 
 
 
