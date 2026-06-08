@@ -17,7 +17,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Causal Inference Lab
-url: "https://snu-causal-inference-lab.github.io"
+url: "https://causal.snu.ac.kr"
 baseurl: ""
 repository: snu-causal-inference-lab/snu-causal-inference-lab.github.io
 
