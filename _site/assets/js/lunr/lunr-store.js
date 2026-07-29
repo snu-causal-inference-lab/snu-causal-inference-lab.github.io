@@ -90,7 +90,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Lab Members",
-        "excerpt":"Kwonsang Lee Faculty Hajoung Lee Postdoctoral Fellow Geondo Park Ph.D. Student Zion Lee Ph.D. Student Juyeon Kim Ph.D. Student Suehyun Kim Master's Student Sangyong Park Master's Student Alumni Junho Jang, Master's (2025). Economist, the Bank of Korea. Jaehyuk Jang, Master's (2025). Ph.D. student, Rutgers University (since 2025). Sangjin Lee, Master's...","categories": [],
+        "excerpt":"Kwonsang Lee Faculty Hajoung Lee Postdoctoral Fellow Geondo Park Ph.D. Student Zion Lee Ph.D. Student Juyeon Kim Ph.D. Student Suehyun Kim Master's Student Sangyong Park Master's Student Hyeonseok Sim Master's Student Alumni Junho Jang, Master's (2025). Economist, the Bank of Korea. Jaehyuk Jang, Master's (2025). Ph.D. student, Rutgers University (since...","categories": [],
         "tags": [],
         "url": "/people/",
         "teaser": null
@@ -123,6 +123,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/people/hajoung-lee/",
+        "teaser": null
+      },{
+        "title": "Hyeonseok Sim",
+        "excerpt":"Education      M.S. in Statistics, Seoul National University, Mar 2026 - Present   B.S. in Mathematics &amp; B.A. in Applied Statistics (double major), Konkuk University, Mar 2019 - Feb 2026   ","categories": [],
+        "tags": [],
+        "url": "/people/hyeonseok-sim/",
         "teaser": null
       },{
         "title": "Juyeon Kim",
