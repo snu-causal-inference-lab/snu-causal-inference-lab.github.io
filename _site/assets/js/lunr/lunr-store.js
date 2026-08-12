@@ -132,7 +132,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Geondo Park",
-        "excerpt":"Research Interests Heterogeneous treatment effects Optimal treatment regimes Overlap quantification Education Ph.D. in Statistics, Seoul National University, Mar 2023 - Present B.S. in Statistics, Seoul National University, Mar 2017 - Aug 2023 Teaching Assistant Mathematical Statistics 2 (326.312), Fall 2025 Causal Inference (M1399.001200), Spring 2025 Seminar in Statistics (Uncertainty Quantification...","categories": [],
+        "excerpt":"My research focuses on causal inference, particularly on quantifying overlap in observational studies. I also work on applied projects involving clinical data, with an interest in bridging causal inference methodology and real-world applications. My broader research interests include synthetic control methods, generalizability and transportability, and causal inference for complex real-world...","categories": [],
         "tags": [],
         "url": "/people/geondo-park/",
         "teaser": null
