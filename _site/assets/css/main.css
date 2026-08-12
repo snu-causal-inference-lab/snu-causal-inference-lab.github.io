@@ -1509,9 +1509,9 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 
 .home-news-right .news-row:first-child { padding-top: 0; }
 
-a.home-news-more, a.home-news-more:visited { color: #808080 !important; text-decoration: none; }
+a.home-news-more, a.home-news-more:visited { color: #808080 !important; text-decoration: none; transition: color 100ms ease; }
 
-a.home-news-more:hover { color: #333 !important; }
+a.home-news-more:hover { color: #333 !important; text-underline-offset: 2px; }
 
 /* Mobile: stack */
 @media (max-width: 768px) { .home-news { grid-template-columns: 1fr; }
