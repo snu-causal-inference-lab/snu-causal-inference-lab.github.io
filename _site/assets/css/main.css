@@ -1464,9 +1464,15 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 
 .intro-image img { max-width: 100%; /* responsive image */ border-radius: 8px; /* optional: rounded corners */ }
 
+.news-entry a, .news-entry a:visited { color: inherit !important; text-decoration: none; }
+
+.news-entry a:hover { color: #777 !important; text-decoration: underline; text-underline-offset: 2px; }
+
 .news-list { list-style: none; padding-left: 0; margin: 0; }
 
 .news-list h2 { margin-top: 2em; border-bottom: none !important; padding-bottom: 0 !important; }
+
+.news-list h2:first-of-type { margin-top: 1em; }
 
 .news-row { display: flex; align-items: baseline; padding: 0.5rem 0; }
 

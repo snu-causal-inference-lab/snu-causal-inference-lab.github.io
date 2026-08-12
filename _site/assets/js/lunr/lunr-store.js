@@ -35,6 +35,12 @@ var store = [{
         "url": "/news/2025-06-30-symposium/",
         "teaser": null
       },{
+        "title": "Hyunseung",
+        "excerpt":"We were pleased to host Hyunseung Kang (University of Wisconsin–Madison) as a Visiting Scholar in our lab.  ","categories": [],
+        "tags": [],
+        "url": "/news/2025-07-01-hyunseung/",
+        "teaser": null
+      },{
         "title": "Penn",
         "excerpt":"Kwonsang is on a Visiting Scholar appointment at UPenn Statistics &amp; Data Science.   ","categories": [],
         "tags": [],
@@ -83,8 +89,26 @@ var store = [{
         "url": "/news/2026-05-12-acic/",
         "teaser": null
       },{
+        "title": "Visiting",
+        "excerpt":"We hosted Roberto Faleh (University of Tübingen) and Xiang Meng (Harvard T.H. Chan School of Public Health) as Visiting Scholars in our lab. Xiang also gave a special seminar titled Reuse-Aware Inference for Matching Estimators: Central Limits and Single-Matching Variance Estimation.  ","categories": [],
+        "tags": [],
+        "url": "/news/2026-07-01-visiting/",
+        "teaser": null
+      },{
+        "title": "Qasim",
+        "excerpt":"We welcome Muhammad Qasim (Lund University) as a Visiting Scholar in our lab from August 2026 to January 2027.  ","categories": [],
+        "tags": [],
+        "url": "/news/2026-08-12-qasim/",
+        "teaser": null
+      },{
+        "title": "Zubizarreta",
+        "excerpt":"We are pleased to host José R. Zubizarreta (Harvard Medical School) as a Visiting Scholar in our lab. He gave a special seminar titled Space-Time-Meta Causal Inference: A Weighting Perspective.  ","categories": [],
+        "tags": [],
+        "url": "/news/2026-08-13-zubizarreta/",
+        "teaser": null
+      },{
         "title": "News",
-        "excerpt":"2026 May 13 Zion gave a talk on her recent work Design-Based Inference for Attribution to Causal Interaction at ACIC 2026, held in Salt Lake City, Utah. Apr 15 Suehyun gave an oral presentation on her paper A design-based matching framework for staggered adoption with time-varying confounding at EuroCIM 2026...","categories": [],
+        "excerpt":"2026 Aug 13 We are pleased to host José R. Zubizarreta (Harvard Medical School) as a Visiting Scholar in our lab. He gave a special seminar titled Space-Time-Meta Causal Inference: A Weighting Perspective. Aug We welcome Muhammad Qasim (Lund University) as a Visiting Scholar in our lab from August 2026...","categories": [],
         "tags": [],
         "url": "/news/",
         "teaser": null
