@@ -1605,7 +1605,7 @@ a.home-news-more:hover { color: #333 !important; text-underline-offset: 2px; }
 /* ------------------------------------------------------------------------------------ */
 /*                                   Top navigation                                     */
 /* ------------------------------------------------------------------------------------ */
-.research-topnav { display: flex; justify-content: center; gap: 1.5rem; margin: 2rem auto 3rem; flex-wrap: wrap; }
+.research-topnav { display: flex; justify-content: center; gap: 1.5rem; margin: 4rem auto 3rem; flex-wrap: wrap; }
 
 .research-topnav a { border: 1px solid #333; border-radius: 20px; padding: 0.5rem 1rem; text-decoration: none; color: #333; font-weight: 500; transition: background 0.2s ease, color 0.2s ease; }
 
