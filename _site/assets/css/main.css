@@ -1425,7 +1425,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 
 .edu-advisor { margin: 0.1rem 0 0 !important; /* tighter gap above advisor line */ color: #666; font-size: 0.9rem; /* slightly smaller text */ font-weight: 300; }
 
-.edu-advisor a { color: inherit; text-decoration: underline; }
+.edu-advisor a { color: inherit; text-decoration: underline; text-underline-offset: 2px; transition: color 100ms ease; }
 
 .edu-advisor a:hover { color: #000; }
 
@@ -1465,6 +1465,8 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 .intro-image img { max-width: 100%; /* responsive image */ border-radius: 8px; /* optional: rounded corners */ }
 
 .news-entry a, .news-entry a:visited { color: inherit !important; text-decoration: none; }
+
+.news-entry a { transition: color 0.1s ease, text-decoration 0.1s ease; }
 
 .news-entry a:hover { color: #777 !important; text-decoration: underline; text-underline-offset: 2px; }
 
@@ -1581,13 +1583,15 @@ a.home-news-more:hover { color: #333 !important; }
 /* Let only the website URL break anywhere if it’s long */
 .person-contacts .website-link { overflow-wrap: anywhere; word-break: normal; }
 
-.cv-link, .cv-link:visited { color: #333; /* or use inherit */ text-decoration: none; }
+.cv-link, .cv-link:visited { color: #333; /* or use inherit */ text-decoration: none; text-underline-offset: 3px; }
 
-.cv-link:hover { color: #333; text-decoration: underline; /* optional */ }
+.cv-link:hover { color: #333; text-decoration: underline; /* optional */ text-underline-offset: 3px; }
 
 .person-link, .person-link:visited { color: #666; text-decoration: underline; text-underline-offset: 3px; }
 
 .person-link:hover { color: #333; text-decoration: underline; text-underline-offset: 3px; }
+
+.person-link { transition: color 0.1s ease; }
 
 /* ------------------------------------------------------------------------------------ */
 /*                                       Alumni                                         */
@@ -1603,7 +1607,7 @@ a.home-news-more:hover { color: #333 !important; }
 
 .research-topnav a { border: 1px solid #333; border-radius: 20px; padding: 0.5rem 1rem; text-decoration: none; color: #333; font-weight: 500; transition: background 0.2s ease, color 0.2s ease; }
 
-.research-topnav a:hover { background: #192e56; color: #fff; }
+.research-topnav a:hover { background: #192e56; color: #fff; text-decoration: none !important; }
 
 /* ------------------------------------------------------------------------------------ */
 /*                                   Section layout                                     */

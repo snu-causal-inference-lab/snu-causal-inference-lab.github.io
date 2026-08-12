@@ -171,11 +171,13 @@
   font-size: 0.9rem;           /* slightly smaller text */
   font-weight: 300;
 }
-
 .edu-advisor a {
   color: inherit;
   text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: color 100ms ease;
 }
+
 .edu-advisor a:hover {
   color: #000;
 }

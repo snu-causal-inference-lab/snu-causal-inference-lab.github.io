@@ -191,11 +191,14 @@
 .cv-link:visited {
   color: #333;              /* or use inherit */
   text-decoration: none;
+  text-underline-offset: 3px;
 }
 
 .cv-link:hover {
   color: #333;
   text-decoration: underline; /* optional */
+  text-underline-offset: 3px;
+  
 }
 
 .person-link,
@@ -210,7 +213,9 @@
   text-decoration: underline;
   text-underline-offset: 3px;
 }
-
+.person-link {
+  transition: color 0.1s ease;
+}
 
 /* ------------------------------------------------------------------------------------ */
 /*                                       Alumni                                         */

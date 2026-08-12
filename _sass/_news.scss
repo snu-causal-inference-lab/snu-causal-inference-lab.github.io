@@ -1,20 +1,11 @@
-// .news-entry a,
-// .news-entry a:visited {
-//   // color: inherit !important;
-//   color: #555 !important;
-//   text-decoration: underline;
-//   text-underline-offset: 2px;
-//   text-decoration-thickness: 0.5px;
-// }
-
-// .news-entry a:hover {
-//   color: #777 !important;
-// }
-
 .news-entry a,
 .news-entry a:visited {
   color: inherit !important;
   text-decoration: none;
+}
+
+.news-entry a {
+  transition: color 0.1s ease, text-decoration 0.1s ease;
 }
 
 .news-entry a:hover {
