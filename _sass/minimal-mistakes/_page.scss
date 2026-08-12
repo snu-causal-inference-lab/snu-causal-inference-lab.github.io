@@ -6,31 +6,31 @@
   flex: 1 0 auto;
 }
 
-/* ⬇️ Replace the “float right / calc(100% - $right-sidebar-width)” rules
-   with a full-width, centered page block. */
-.page {
-  // was floated + width calc in the theme
-  float: none;
-  width: 100%;
+// /* ⬇️ Replace the “float right / calc(100% - $right-sidebar-width)” rules
+//    with a full-width, centered page block. */
+// .page {
+//   // was floated + width calc in the theme
+//   float: none;
+//   width: 100%;
 
-  .page__inner-wrap {
-    float: none;
-    margin: 1em auto 0 auto;
-    width: 100%;
-    clear: both;
+//   .page__inner-wrap {
+//     float: none;
+//     margin: 1em auto 0 auto;
+//     width: 100%;
+//     clear: both;
 
-    .page__content,
-    .page__meta,
-    .page__share {
-      position: relative;
-      float: none;
-      margin-left: 0;
-      margin-right: 0;
-      width: 100%;
-      clear: both;
-    }
-  }
-}
+//     .page__content,
+//     .page__meta,
+//     .page__share {
+//       position: relative;
+//       float: none;
+//       margin-left: 0;
+//       margin-right: 0;
+//       width: 100%;
+//       clear: both;
+//     }
+//   }
+// }
 
 /* Related section: remove width calc that referenced $right-sidebar-width */
 .page__related {

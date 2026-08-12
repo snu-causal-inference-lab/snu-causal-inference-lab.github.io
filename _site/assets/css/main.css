@@ -1512,6 +1512,10 @@ a.home-news-more:hover { color: #333 !important; }
 /* Mobile: stack */
 @media (max-width: 768px) { .home-news { grid-template-columns: 1fr; }
   .home-news-left { margin-bottom: 0.5rem; } }
+.person-page .page__title { display: none; }
+
+.person-name { grid-column: 1 / -1; margin-bottom: 1rem; }
+
 .people-section { background-color: #f2f2f2; padding: 3rem 0; margin: 2rem 0 0 0; /* Break out of page content width */ width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; }
 
 .people-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 3rem; max-width: 1200px; margin: 0 auto; padding: 0 2rem; }
@@ -1532,6 +1536,12 @@ a.home-news-more:hover { color: #333 !important; }
 /*                                  Individual page                                     */
 /* ------------------------------------------------------------------------------------ */
 .person-page .page__meta, .person-page .comment__date { display: none !important; }
+
+.layout--single #main > .page.person-page { width: auto !important; max-width: none !important; }
+
+.person-page .page__inner-wrap { width: 100%; max-width: 1200px; margin-left: auto; margin-right: auto; }
+
+.person-page .page__content { width: 100%; }
 
 /* -------------------------------------- Text ---------------------------------------- */
 .person-page strong { font-weight: 600 !important; }
