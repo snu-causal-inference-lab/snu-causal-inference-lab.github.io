@@ -90,7 +90,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Visiting",
-        "excerpt":"We hosted Roberto Faleh (University of Tübingen) and Xiang Meng (Harvard T.H. Chan School of Public Health) as Visiting Scholars in our lab. Xiang also gave a special seminar titled Reuse-Aware Inference for Matching Estimators: Central Limits and Single-Matching Variance Estimation.  ","categories": [],
+        "excerpt":"We hosted Roberto Faleh (University of Tübingen) and Xiang Meng (Harvard T.H. Chan School of Public Health) as Visiting Scholars in our lab. Roberto and Xiang gave talks titled Learning How Treatments Work: Causal Mediation When Sequential Ignorability Fails, and Reuse-Aware Inference for Matching Estimators: Central Limits and Single-Matching Variance...","categories": [],
         "tags": [],
         "url": "/news/2026-07-01-visiting/",
         "teaser": null
@@ -101,14 +101,8 @@ var store = [{
         "url": "/news/2026-08-12-qasim/",
         "teaser": null
       },{
-        "title": "Zubizarreta",
-        "excerpt":"We are pleased to host José R. Zubizarreta (Harvard Medical School) as a Visiting Scholar in our lab. He gave a special seminar titled Space-Time-Meta Causal Inference: A Weighting Perspective.  ","categories": [],
-        "tags": [],
-        "url": "/news/2026-08-13-zubizarreta/",
-        "teaser": null
-      },{
         "title": "News",
-        "excerpt":"2026 Aug 13 We are pleased to host José R. Zubizarreta (Harvard Medical School) as a Visiting Scholar in our lab. He gave a special seminar titled Space-Time-Meta Causal Inference: A Weighting Perspective. Aug We welcome Muhammad Qasim (Lund University) as a Visiting Scholar in our lab from August 2026...","categories": [],
+        "excerpt":"2026 Aug We welcome Muhammad Qasim (Lund University) as a Visiting Scholar in our lab from August 2026 to January 2027. Jul We hosted Roberto Faleh (University of Tübingen) and Xiang Meng (Harvard T.H. Chan School of Public Health) as Visiting Scholars in our lab. Roberto and Xiang gave talks...","categories": [],
         "tags": [],
         "url": "/news/",
         "teaser": null
