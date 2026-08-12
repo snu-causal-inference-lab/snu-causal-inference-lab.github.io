@@ -128,6 +128,11 @@
 
 
 /* ------------------------------------- Info ----------------------------------------- */
+.person-page .page__content > p:first-of-type {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
 .person-info p {
   margin: 0.2rem 0;   
   line-height: 1.4; 

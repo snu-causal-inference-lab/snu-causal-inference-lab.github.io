@@ -9,11 +9,8 @@ photo: /assets/images/people/geondo-park.jpg
 email: p_geondo@snu.ac.kr
 ---
 
-## Research Interests
-
-- Heterogeneous treatment effects
-- Optimal treatment regimes
-- Overlap quantification
+My research focuses on **causal inference**, particularly on **quantifying overlap in observational studies**. I also work on applied projects involving **clinical data**, with an interest in bridging causal inference methodology and real-world applications.
+My broader research interests include **synthetic control methods, generalizability and transportability**, and causal inference for complex real-world data.
 
 
 ## Education
