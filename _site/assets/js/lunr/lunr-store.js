@@ -101,8 +101,14 @@ var store = [{
         "url": "/news/2026-08-12-qasim/",
         "teaser": null
       },{
+        "title": "Jose",
+        "excerpt":"We were delighted to host José R. Zubizarreta (Harvard Medical School) during his visit to SNU. He also gave a seminar titled Space-Time-Meta Causal Inference: A Weighting Perspective.  ","categories": [],
+        "tags": [],
+        "url": "/news/2026-08-13-jose/",
+        "teaser": null
+      },{
         "title": "News",
-        "excerpt":"2026 Aug We welcome Muhammad Qasim (Lund University) as a Visiting Scholar in our lab from August 2026 to January 2027. Jul We hosted Roberto Faleh (University of Tübingen) and Xiang Meng (Harvard T.H. Chan School of Public Health) as Visiting Scholars in our lab. Roberto and Xiang gave talks...","categories": [],
+        "excerpt":"2026 Aug 13 We were delighted to host José R. Zubizarreta (Harvard Medical School) during his visit to SNU. He also gave a seminar titled Space-Time-Meta Causal Inference: A Weighting Perspective. Aug We welcome Muhammad Qasim (Lund University) as a Visiting Scholar in our lab from August 2026 to January...","categories": [],
         "tags": [],
         "url": "/news/",
         "teaser": null
