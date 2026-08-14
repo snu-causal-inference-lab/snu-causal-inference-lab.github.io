@@ -26,9 +26,6 @@ entries_layout: list
       <p class="profile-more">
         <a href="{{ '/research/' | relative_url }}">More about my research →</a>
       </p>
-      <p class="profile-p">
-        From July 2025, I will be a visiting scholar at the University of Pennsylvania.
-      </p>
       <div class="profile-cta">
         <!-- Google Scholar -->
         <a class="icon-link" href="https://scholar.google.com/citations?user=125S2iYAAAAJ&hl=en" target="_blank" aria-label="Google Scholar">

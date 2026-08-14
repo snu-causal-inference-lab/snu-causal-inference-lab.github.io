@@ -101,11 +101,11 @@ html {
 // .layout--single .page__sidebar,
 // .layout--single .sticky { display: none !important; }
 
-/* Page width = content width */
 .layout--single #main > .page {
   float: none !important;
   width: 100% !important;
   max-width: $content-width !important;
+  padding-inline-end: 0 !important; /* removes the hidden 200px sidebar */
   margin: 0 auto !important;
 }
 
@@ -259,3 +259,23 @@ h4.pub-year {
   margin-top: 2rem !important;
 }
 
+/* Person */
+/* Individual people pages: remove the theme's phantom sidebar */
+.layout--person #main > .page {
+  float: none !important;
+  width: 100% !important;
+  max-width: $content-width !important;
+  padding-inline-end: 0 !important;
+  margin: 0 auto !important;
+}
+
+.person-page {
+  width: 100%;
+}
+
+.person-page .page__inner-wrap {
+  float: none !important;
+  width: 100%;
+  max-width: none;
+  margin-inline: 0;
+}
