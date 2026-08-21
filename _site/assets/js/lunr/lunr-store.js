@@ -30,7 +30,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Symposium",
-        "excerpt":"The 2025 Causal Inference Symposium was held at COEX convention center, Seoul, Korea. Geondo and Zion gave talks on Quantifying Overlap in Causal Inference: A Framework for Early-Stage Assessment and Causal Interaction and Effect Modification: A Randomization-Based Approach to Inference, respectively.   ","categories": [],
+        "excerpt":"The 2025 Causal Inference Symposium was held at COEX convention center, Seoul, Korea. Geondo and Zion gave talks on Quantifying Overlap in Causal Inference: A Framework for Early-Stage Assessment and Causal Interaction and Effect Modification: A Randomization-Based Approach to Inference, respectively.  ","categories": [],
         "tags": [],
         "url": "/news/2025-06-30-symposium/",
         "teaser": null
@@ -42,7 +42,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Penn",
-        "excerpt":"Kwonsang is on a Visiting Scholar appointment at UPenn Statistics &amp; Data Science.   ","categories": [],
+        "excerpt":"Kwonsang is s a visiting scholar in the Department of Statistics and Data Science at the University of Pennsylvania through July 2026.  ","categories": [],
         "tags": [],
         "url": "/news/2025-07-16-penn/",
         "teaser": null
@@ -60,19 +60,19 @@ var store = [{
         "teaser": null
       },{
         "title": "Penn",
-        "excerpt":"Hajoung has begun her Visiting Scholar appointment at the Department of Statistics and Data Science, University of Pennsylvania.  ","categories": [],
+        "excerpt":"Hajoung has begun her visiting scholar appointment in Penn’s Department of Statistics and Data Science.  ","categories": [],
         "tags": [],
         "url": "/news/2025-12-20-penn/",
         "teaser": null
       },{
         "title": "Penn",
-        "excerpt":"Geondo, Zion, and Juyeon are Visiting Scholars at the Department of Statistics and Data Science, University of Pennsylvania.  ","categories": [],
+        "excerpt":"Geondo, Zion, and Juyeon are visiting scholars in Penn’s Department of Statistics and Data Science.  ","categories": [],
         "tags": [],
         "url": "/news/2026-01-14-penn/",
         "teaser": null
       },{
         "title": "Cci Seminar",
-        "excerpt":"Geondo presented at the Spring 2026 seminar of the Center for Causal Inference (CCI) at the University of Pennsylvania, on joint work with Juyeon, Quantifying Practical Overlap in Causal Inference via Integrated KL Projections.  ","categories": [],
+        "excerpt":"Geondo presented at the Spring 2026 CCI Seminar at Penn, on joint work with Juyeon, Quantifying Practical Overlap in Causal Inference via Integrated KL Projections.  ","categories": [],
         "tags": [],
         "url": "/news/2026-01-29-cci-seminar/",
         "teaser": null
@@ -90,13 +90,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Visiting",
-        "excerpt":"We hosted Roberto Faleh (University of Tübingen) and Xiang Meng (Dana-Farber Cancer Institute and Harvard T.H. Chan School of Public Health) as Visiting Scholars in our lab. Roberto and Xiang gave talks titled Learning How Treatments Work: Causal Mediation When Sequential Ignorability Fails, and Reuse-Aware Inference for Matching Estimators: Central...","categories": [],
+        "excerpt":"We hosted Roberto Faleh (University of Tübingen) and Xiang Meng (Dana-Farber Cancer Institute and Harvard T.H. Chan School of Public Health) as visiting scholars in our lab. Roberto and Xiang gave talks titled Learning How Treatments Work: Causal Mediation When Sequential Ignorability Fails, and Reuse-Aware Inference for Matching Estimators: Central...","categories": [],
         "tags": [],
         "url": "/news/2026-07-01-visiting/",
         "teaser": null
       },{
         "title": "Qasim",
-        "excerpt":"We welcome Muhammad Qasim (Lund University) as a Visiting Scholar in our lab from August 2026 to January 2027.  ","categories": [],
+        "excerpt":"We welcome Muhammad Qasim (Lund University) as a vising scholar in our lab from August 2026 to January 2027.  ","categories": [],
         "tags": [],
         "url": "/news/2026-08-12-qasim/",
         "teaser": null
