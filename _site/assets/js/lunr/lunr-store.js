@@ -90,7 +90,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Visiting",
-        "excerpt":"We hosted Roberto Faleh (University of Tübingen) and Xiang Meng (Harvard T.H. Chan School of Public Health) as Visiting Scholars in our lab. Roberto and Xiang gave talks titled Learning How Treatments Work: Causal Mediation When Sequential Ignorability Fails, and Reuse-Aware Inference for Matching Estimators: Central Limits and Single-Matching Variance...","categories": [],
+        "excerpt":"We hosted Roberto Faleh (University of Tübingen) and Xiang Meng (Dana-Farber Cancer Institute and Harvard T.H. Chan School of Public Health) as Visiting Scholars in our lab. Roberto and Xiang gave talks titled Learning How Treatments Work: Causal Mediation When Sequential Ignorability Fails, and Reuse-Aware Inference for Matching Estimators: Central...","categories": [],
         "tags": [],
         "url": "/news/2026-07-01-visiting/",
         "teaser": null
@@ -102,13 +102,19 @@ var store = [{
         "teaser": null
       },{
         "title": "Jose",
-        "excerpt":"We were delighted to host José R. Zubizarreta (Harvard Medical School) during his visit to SNU. He also gave a seminar titled Space-Time-Meta Causal Inference: A Weighting Perspective.  ","categories": [],
+        "excerpt":"We were delighted to host José R. Zubizarreta (Harvard Medical School and Harvard T.H. Chan School of Public Health) during his visit to SNU. He also gave a seminar titled Space-Time-Meta Causal Inference: A Weighting Perspective.  ","categories": [],
         "tags": [],
         "url": "/news/2026-08-13-jose/",
         "teaser": null
       },{
+        "title": "Workshop",
+        "excerpt":"Our group held the 2026 Summer Lab Workshop! We were also happy to welcome our former lab member, Suhwan, who joined us for a short talk. Kwonsang gave a tutorial to our new master’s student and the undergraduate lab interns, and everyone shared updates on their research projects and future...","categories": [],
+        "tags": [],
+        "url": "/news/2026-08-19-workshop/",
+        "teaser": null
+      },{
         "title": "News",
-        "excerpt":"2026 Aug 13 We were delighted to host José R. Zubizarreta (Harvard Medical School) during his visit to SNU. He also gave a seminar titled Space-Time-Meta Causal Inference: A Weighting Perspective. Aug We welcome Muhammad Qasim (Lund University) as a Visiting Scholar in our lab from August 2026 to January...","categories": [],
+        "excerpt":"2026 Aug 19 Our group held the 2026 Summer Lab Workshop! We were also happy to welcome our former lab member, Suhwan, who joined us for a short talk. Kwonsang gave a tutorial to our new master’s student and the undergraduate lab interns, and everyone shared updates on their research...","categories": [],
         "tags": [],
         "url": "/news/",
         "teaser": null
