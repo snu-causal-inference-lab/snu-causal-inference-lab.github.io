@@ -9,7 +9,7 @@ photo: /assets/images/people/geondo-park.jpg
 email: p_geondo@snu.ac.kr
 ---
 
-My research focuses on **causal inference**, particularly on **quantifying overlap in observational studies**. I also work on applied projects involving **clinical data**, with an interest in bridging causal inference methodology and real-world applications.
+My research focuses on **causal inference**, particularly on **quantifying overlap in observational studies**. I also work on applied projects involving **medical data**, with an interest in bridging causal inference methodology and real-world applications.
 My broader research interests include **synthetic control methods, generalizability and transportability**, and causal inference for complex real-world data.
 
 
