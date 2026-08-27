@@ -1,9 +1,9 @@
 ---
 layout: person
 name: Sangyong Park
-role: ms               # pi | phd | ms
+role: re               # pi | phd | ms
 joined: 2024
-order: 7
+order: 3
 photo: /assets/images/people/sangyong-park.jpg
 email: pasyung@snu.ac.kr
 ---

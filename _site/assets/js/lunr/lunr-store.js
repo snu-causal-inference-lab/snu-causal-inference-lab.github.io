@@ -113,14 +113,20 @@ var store = [{
         "url": "/news/2026-08-19-workshop/",
         "teaser": null
       },{
+        "title": "Grad",
+        "excerpt":"Suehyun and Sangyong graduated with master’s degrees. Suehyun will begin her Ph.D. studies at Stanford University, and Sangyong will continue his research with our lab. Congratulations to both on their next steps!  ","categories": [],
+        "tags": [],
+        "url": "/news/2026-08-28-grad/",
+        "teaser": null
+      },{
         "title": "News",
-        "excerpt":"2026 Aug 19 Our group held the 2026 Summer Lab Workshop! We were also happy to welcome our former lab member, Suhwan, who joined us for a short talk. Kwonsang gave a tutorial to our new master’s student and the undergraduate lab interns, and everyone shared updates on their research...","categories": [],
+        "excerpt":"2026 Aug 28 Suehyun and Sangyong graduated with master’s degrees. Suehyun will begin her Ph.D. studies at Stanford University, and Sangyong will continue his research with our lab. Congratulations to both on their next steps! Aug 19 Our group held the 2026 Summer Lab Workshop! We were also happy to...","categories": [],
         "tags": [],
         "url": "/news/",
         "teaser": null
       },{
         "title": "Lab Members",
-        "excerpt":"Kwonsang Lee Faculty Hajoung Lee Postdoctoral Fellow Geondo Park Ph.D. Student Zion Lee Ph.D. Student Juyeon Kim Ph.D. Student Suehyun Kim Master's Student Sangyong Park Master's Student Hyeonseok Sim Master's Student Alumni Junho Jang, Master's (2025). Economist, the Bank of Korea. Jaehyuk Jang, Master's (2025). Ph.D. student, Rutgers University (since...","categories": [],
+        "excerpt":"Kwonsang Lee Faculty Hajoung Lee Postdoctoral Fellow Sangyong Park Researcher Geondo Park Ph.D. Student Zion Lee Ph.D. Student Juyeon Kim Ph.D. Student Hyeonseok Sim Master's Student Alumni Suehyun Kim, Master's (2026). Ph.D. student, Standford University (since 2026). Junho Jang, Master's (2025). Economist, the Bank of Korea. Jaehyuk Jang, Master's (2025)....","categories": [],
         "tags": [],
         "url": "/people/",
         "teaser": null
@@ -144,7 +150,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Geondo Park",
-        "excerpt":"My research focuses on causal inference, particularly on quantifying overlap in observational studies. I also work on applied projects involving clinical data, with an interest in bridging causal inference methodology and real-world applications. My broader research interests include synthetic control methods, generalizability and transportability, and causal inference for complex real-world...","categories": [],
+        "excerpt":"My research focuses on causal inference, particularly on quantifying overlap in observational studies. I also work on applied projects involving medical data, with an interest in bridging causal inference methodology and real-world applications. My broader research interests include synthetic control methods, generalizability and transportability, and causal inference for complex real-world...","categories": [],
         "tags": [],
         "url": "/people/geondo-park/",
         "teaser": null
@@ -177,12 +183,6 @@ var store = [{
         "excerpt":"Research Interests      Matching methods with Quantum Computing   Variable selection in Causal inference   Education      M.S. in Statistics, Seoul National University, Sep 2024 - Present   B.S. in Economics, Yonsei University, Mar 2014 - Feb 2024  ","categories": [],
         "tags": [],
         "url": "/people/sangyong-park/",
-        "teaser": null
-      },{
-        "title": "Suehyun Kim",
-        "excerpt":"Research Topics     Robust estimation of causal effects   Causal inference in time-series cross-sectional data   Education     M.S. in Statistics, Seoul National University, Sep 2024 - Present   B.S. in Mathematical Sciences &amp; Statistics (Double Major), Seoul National University, Mar 2019 - Aug 2024   ","categories": [],
-        "tags": [],
-        "url": "/people/suehyun-kim/",
         "teaser": null
       },{
         "title": "Zion Lee",

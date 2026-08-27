@@ -4,7 +4,7 @@ excerpt: "PhD student in statistics at Seoul National University"
 layout: person
 name: Zion Lee
 role: phd               # pi | phd | ms
-order: 4
+order: 5
 photo: /assets/images/people/zion-lee.jpg
 email: zion0217@snu.ac.kr
 ---

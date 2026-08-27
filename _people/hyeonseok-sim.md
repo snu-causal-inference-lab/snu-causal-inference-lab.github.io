@@ -3,7 +3,7 @@ layout: person
 name: Hyeonseok Sim
 role: ms               # pi | phd | ms
 joined: 2024
-order: 8
+order: 7
 photo: /assets/images/people/hyeonseok-sim.jpg
 email: hyeonseoksim@snu.ac.kr
 ---

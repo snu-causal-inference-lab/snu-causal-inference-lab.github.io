@@ -4,7 +4,7 @@ excerpt: "PhD student in statistics at Seoul National University"
 layout: person
 name: Geondo Park
 role: phd               # pi | phd | ms
-order: 3
+order: 4
 photo: /assets/images/people/geondo-park.jpg
 email: p_geondo@snu.ac.kr
 ---

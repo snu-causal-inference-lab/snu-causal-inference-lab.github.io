@@ -21,6 +21,7 @@ layout: single
             {% when "postdoc" %} Postdoctoral Fellow
             {% when "phd" %} Ph.D. Student
             {% when "ms" %} Master's Student
+            {% when "re" %} Researcher
             {% else %} {{ p.role }}
           {% endcase %}
         </div>
@@ -34,6 +35,7 @@ layout: single
   <h1 class="people-title" style="margin-top: -1rem !important;">Alumni</h1>
   <div class="alumni-list">
     <ul>
+      <li><a href="https://suehkim.github.io/" class="person-link">Suehyun Kim</a>, Master's (2026). Ph.D. student, Standford University (since 2026).</li>
       <li>Junho Jang, Master's (2025). Economist, the Bank of Korea.</li>
       <li>Jaehyuk Jang, Master's (2025). Ph.D. student, Rutgers University (since 2025).</li>
       <li>Sangjin Lee, Master's (2025). Ph.D. student, Ghent University (since 2025).</li>

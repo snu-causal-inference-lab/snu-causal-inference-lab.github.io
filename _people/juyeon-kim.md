@@ -4,7 +4,7 @@ excerpt: "PhD student in statistics at Seoul National University"
 layout: person
 name: Juyeon Kim
 role: phd
-order: 5
+order: 6
 photo: /assets/images/people/juyeon-kim.jpg
 email: juyeonk@snu.ac.kr
 ---
@@ -32,6 +32,7 @@ email: juyeonk@snu.ac.kr
 
 ## Teaching Assistant
 
+* Statistics (F32.102), Fall 2026.
 * Regression Analysis and Lab (326.313) / Regression Models 1 (M3635.000400), Spring 2026.
 * Research Method and Statistics (M2480.002400), Spring 2025.
 * Statistical Computing and Lab (326.212), Fall 2024.
