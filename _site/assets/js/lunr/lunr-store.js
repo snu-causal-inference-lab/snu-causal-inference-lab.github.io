@@ -168,7 +168,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Juyeon Kim",
-        "excerpt":"Education Ph.D. in Statistics, Seoul National University, Sep 2024 - Present B.S. in Statistics, B.S. in Computer Science and Engineering, Seoul National University, Mar 2020 - Aug 2024 Publications Dongmin Bang†, Juyeon Kim†, Haerin Song, and Sun Kim (2025). ADME-drug-likeness: enriching molecular foundation models via pharmacokinetics-guided multi-task learning for drug-likeness...","categories": [],
+        "excerpt":"My research focuses on causal inference, particularly on methodological problems related to the design of credible causal comparisons. My current work includes quantifying overlap in observational studies and methodological work on matching. I am also motivated by real-world applications across diverse scientific domains, with current applied work involving maritime transportation...","categories": [],
         "tags": [],
         "url": "/people/juyeon-kim/",
         "teaser": null
@@ -186,7 +186,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Zion Lee",
-        "excerpt":"Research Interests   Causal Interactions, Mediation, Probability of Causation, Sufficient Cause Model   Education      Ph.D. in Statistics, Integrated Master’s and Ph.D. Program, Seoul National University   B.S. in Mathematics Education (major) and Statistics (double major), Sungkyunkwan University   ","categories": [],
+        "excerpt":"My research interests lie in causal inference, particularly causal interaction among multiple treatments and effect modification. I am also interested in causal attribution, causes of effects, and the probability of causation. More broadly, I aim to develop methods for these problems in complex settings and apply them to empirical legal...","categories": [],
         "tags": [],
         "url": "/people/zion-lee/",
         "teaser": null

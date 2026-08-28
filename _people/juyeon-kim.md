@@ -9,11 +9,13 @@ photo: /assets/images/people/juyeon-kim.jpg
 email: juyeonk@snu.ac.kr
 ---
 
+My research focuses on causal inference, particularly on methodological problems related to the **design of credible causal comparisons**. My current work includes **quantifying overlap** in observational studies and methodological work on **matching**. I am also motivated by real-world applications across diverse scientific domains, with current applied work involving **maritime transportation data**. My broader interests include heterogeneous treatment effects and experimental design.
+
 
 ## Education
 
-* **Ph.D. in Statistics**, Seoul National University, Sep 2024 - Present
-* **B.S. in Statistics, B.S. in Computer Science and Engineering**, Seoul National University, Mar 2020 - Aug 2024
+* **Ph.D. in Statistics**, Seoul National University, Sep 2024 - Present.
+* **B.S. in Statistics & Computer Science and Engineering**, Seoul National University, Mar 2020 - Aug 2024.
 
 
 ## Publications
@@ -25,9 +27,9 @@ email: juyeonk@snu.ac.kr
 
 ## Presentations
 
-* Geondo Park, Juyeon Kim, and Kwonsang Lee. Quantifying overlap in causal inference via integrated KL projections. **2026 American Causal Inference Conference (ACIC)**, Salt Lake City.
-* Geondo Park, Juyeon Kim, and Kwonsang Lee. Quantifying overlap in causal inference via integrated KL projections. **2026 European Causal Inference Meeting (EuroCIM)**, Oxford.
-* Geondo Park, Juyeon Kim, and Kwonsang Lee. Quantifying overlap in causal inference: A framework for early-stage assessment. **2025 Korean Statistical Society (KSS) Summer Conference**, Gyeongju.
+* Geondo Park, Juyeon Kim, and Kwonsang Lee. Quantifying overlap in causal inference via integrated KL projections. **2026 American Causal Inference Conference (ACIC)**, Salt Lake City. <span style="color: #888;">[Poster]</span>
+* Geondo Park, Juyeon Kim, and Kwonsang Lee. Quantifying overlap in causal inference via integrated KL projections. **2026 European Causal Inference Meeting (EuroCIM)**, Oxford. <span style="color: #888;">[Poster]</span>
+* Geondo Park, Juyeon Kim, and Kwonsang Lee. Quantifying overlap in causal inference: A framework for early-stage assessment. **2025 Korean Statistical Society (KSS) Summer Conference**, Gyeongju. <span style="color: #888;">[Poster]</span>
 
 
 ## Teaching Assistant
@@ -36,6 +38,3 @@ email: juyeonk@snu.ac.kr
 * Regression Analysis and Lab (326.313) / Regression Models 1 (M3635.000400), Spring 2026.
 * Research Method and Statistics (M2480.002400), Spring 2025.
 * Statistical Computing and Lab (326.212), Fall 2024.
-
-
-
