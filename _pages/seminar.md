@@ -19,6 +19,10 @@ classes: "seminar-page show-updated"
 * Stochastic gradient methods for distributionally robust optimization with f-divergences (Hongseok Namkoong & John Duchi, 2016)
 * Augmented minimax linear estimation (David Hirshberg & Stefan Wager, 2021)
 * Generalized optimal matching methods for causal inference (Nathan Kallus, 2020)
+* Russian roulette: the need for stochastic potential outcomes when utilities depend on counterfactuals (Andrew Gelman & Jonas M. Mikhaeil, 2025)
+* A new framework for distance and kernel-based metrics in high dimensions (Shubhadeep Chakraborty & Xianyang Zhang, 2021)
+* Distinguishing genetic correlation from causation across 52 diseases and complex traits (Luke J. O'Connor & Alkes L. Price, 2018)
+* Causal Inference with Generative Artificial Intelligence: Application to Texts as Treatments (Kosuke Imai & Kentaro Nakamura, 2026)
 
 
 
