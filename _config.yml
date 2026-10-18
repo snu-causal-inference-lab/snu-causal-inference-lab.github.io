@@ -17,6 +17,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Causal Inference Lab
+description: "SNU Statistics Causal Inference Lab led by Kwonsang Lee (서울대학교 통계학과 이권상 교수 인과추론 연구실)"
 url: "https://causal.snu.ac.kr"
 baseurl: ""
 repository: snu-causal-inference-lab/snu-causal-inference-lab.github.io
