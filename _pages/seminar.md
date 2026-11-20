@@ -28,10 +28,6 @@ classes: "seminar-page show-updated"
 * Design-based causal inference with missing outcomes: missingness mechanisms, imputation-assisted randomization tests, and covariate adjustment (Siyu Heng, Jiawei Zhang & Yang Feng, 2026)
 
 
-Decomposition and Interpretation of
-Treatment Effects in Settings with Delayed Outcomes
-
-
 ## 2025 Lab Seminar
 
 ### Paper reviews
