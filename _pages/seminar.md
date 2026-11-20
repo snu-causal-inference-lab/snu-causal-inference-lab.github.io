@@ -22,8 +22,14 @@ classes: "seminar-page show-updated"
 * Russian roulette: the need for stochastic potential outcomes when utilities depend on counterfactuals (Andrew Gelman & Jonas M. Mikhaeil, 2025)
 * A new framework for distance and kernel-based metrics in high dimensions (Shubhadeep Chakraborty & Xianyang Zhang, 2021)
 * Distinguishing genetic correlation from causation across 52 diseases and complex traits (Luke J. O'Connor & Alkes L. Price, 2018)
-* Causal Inference with Generative Artificial Intelligence: Application to Texts as Treatments (Kosuke Imai & Kentaro Nakamura, 2026)
+* Causal inference with generative artificial intelligence: application to texts as treatments (Kosuke Imai & Kentaro Nakamura, 2026)
+* A robust approach to quantifying uncertainty in matching problems of causal inference (Marco Morucci, Md. Noor-E-Alam & Cynthia Rudin, 2022)
+* Decomposition and interpretation of treatment effects in settings with delayed outcomes (Bugni, Canay & McBride, 2026)
+* Design-based causal inference with missing outcomes: missingness mechanisms, imputation-assisted randomization tests, and covariate adjustment (Siyu Heng, Jiawei Zhang & Yang Feng, 2026)
 
+
+Decomposition and Interpretation of
+Treatment Effects in Settings with Delayed Outcomes
 
 
 ## 2025 Lab Seminar
